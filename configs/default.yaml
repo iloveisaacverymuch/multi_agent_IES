@@ -1,0 +1,33 @@
+algorithm: all_task_evolutionary_maddpg
+method_name: Carbon-Dividend CDA V3 + All-task Mean-HV-guided Evolutionary MADDPG
+seed: 44
+device: cpu
+market_mechanism: carbon_dividend_v3
+cda_carbon_price: 0.01
+reward: raw_negative_cost_carbon
+generations: 12
+warmup_episodes: 30
+generation_episodes: 12
+initial_cost_weights: [0.2, 0.4, 0.6, 0.8, 0.0, 1.0]
+anchor_mode: evolving
+adaptive_tasks: 6
+candidate_count: 8
+explorer_tail: 0.35
+kappa_start: 0.0
+kappa_end: 0.0
+elite_ensemble_size: 5
+elite_ensemble_sample_ratio: 0.8
+elite_ensemble_max_samples: 32
+hidden_dim: 128
+actor_lr: 3.0e-4
+critic_lr: 5.0e-4
+gamma: 0.99
+tau: 0.005
+replay_size: 50000
+batch_size: 256
+update_every: 4
+updates_per_step: 1
+noise_std: 0.2
+noise_min: 0.03
+reward_scale: 1.0e-6
+save_dir: outputs/runs/all_task_evolutionary_maddpg

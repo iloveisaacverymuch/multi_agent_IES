@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+data/raw/*.csv
+outputs/runs/
+outputs/models/
+*.log
+*.pid

@@ -1,0 +1,7 @@
+method_key,method,preference,policy_file,pareto_index,cost,carbon
+main,All-task Mean-HV E-MADDPG,cost_priority,EP_policy_2.pt,2,234653.58486037556,239984.45951358989
+main,All-task Mean-HV E-MADDPG,balanced,EP_policy_56.pt,56,403200.0795906215,130664.1923837358
+main,All-task Mean-HV E-MADDPG,carbon_priority,EP_policy_119.pt,119,588256.0350457586,38797.90209053859
+fixed_maddpg,Fixed-weight MADDPG,cost_priority,EP_policy_0.pt,0,237667.0448018195,245854.2442130072
+fixed_maddpg,Fixed-weight MADDPG,balanced,EP_policy_64.pt,64,405094.11697451153,139726.332758655
+fixed_maddpg,Fixed-weight MADDPG,carbon_priority,EP_policy_123.pt,123,586170.042978462,37101.4593174486

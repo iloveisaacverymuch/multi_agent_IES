@@ -1,0 +1,721 @@
+level,comparison,preference,season,seed,metric,effect_unit,new_value,old_value,effect_value
+cell,Targeted vs Equal dividend,balanced,autumn,11,total_cost,%,104693.76289845671,104485.9983559764,-0.1988443865679308
+cell,Targeted vs Equal dividend,balanced,autumn,22,total_cost,%,106954.11357867034,106378.24252435418,-0.541342891789473
+cell,Targeted vs Equal dividend,balanced,autumn,33,total_cost,%,105198.16800012512,103170.99765772853,-1.9648645340445057
+cell,Targeted vs Equal dividend,balanced,autumn,44,total_cost,%,105463.1259700603,105289.80147048387,-0.16461660783453347
+cell,Targeted vs Equal dividend,balanced,autumn,55,total_cost,%,103760.92984990246,101667.22766035894,-2.0593678392982016
+cell,Targeted vs Equal dividend,balanced,autumn,11,total_carbon,%,37074.47558575728,37364.004145172155,0.7748863271986439
+cell,Targeted vs Equal dividend,balanced,autumn,22,total_carbon,%,36764.79266244257,37574.02194617943,2.153693540968268
+cell,Targeted vs Equal dividend,balanced,autumn,33,total_carbon,%,36223.980249104825,36275.064289286216,0.14082412032134914
+cell,Targeted vs Equal dividend,balanced,autumn,44,total_carbon,%,36208.58749010446,37026.18509510365,2.2081605299037603
+cell,Targeted vs Equal dividend,balanced,autumn,55,total_carbon,%,36769.77432942744,37357.16469933746,1.5723633595791513
+cell,Targeted vs Equal dividend,balanced,autumn,11,grid_buy,%,32023.632163725317,33602.71884101302,4.699282474013335
+cell,Targeted vs Equal dividend,balanced,autumn,22,grid_buy,%,34436.887228124295,33798.447391794514,-1.8889620251750943
+cell,Targeted vs Equal dividend,balanced,autumn,33,grid_buy,%,30214.368917242147,28977.871366556443,-4.267040649896578
+cell,Targeted vs Equal dividend,balanced,autumn,44,grid_buy,%,30391.439221993543,32458.7876463388,6.369148616610277
+cell,Targeted vs Equal dividend,balanced,autumn,55,grid_buy,%,30221.93554808245,31373.894306597624,3.6717110960398984
+cell,Targeted vs Equal dividend,balanced,autumn,11,peer_trade,kWh,1619.2702627122399,1016.7237619856235,602.5465007266164
+cell,Targeted vs Equal dividend,balanced,autumn,22,peer_trade,kWh,833.2666372934217,1177.6331343388042,-344.3664970453825
+cell,Targeted vs Equal dividend,balanced,autumn,33,peer_trade,kWh,2399.0692910048037,3414.2998029693954,-1015.2305119645916
+cell,Targeted vs Equal dividend,balanced,autumn,44,peer_trade,kWh,2417.3265568571023,1341.3884914385014,1075.938065418601
+cell,Targeted vs Equal dividend,balanced,autumn,55,peer_trade,kWh,2330.9609598981074,2950.4945736066575,-619.5336137085501
+cell,Targeted vs Equal dividend,balanced,spring,11,total_cost,%,78090.98782171877,77735.24432668826,-0.45763475513817675
+cell,Targeted vs Equal dividend,balanced,spring,22,total_cost,%,80018.18423196486,79775.65252356687,-0.30401720415429073
+cell,Targeted vs Equal dividend,balanced,spring,33,total_cost,%,78574.00178824991,75352.16407665948,-4.275706943615707
+cell,Targeted vs Equal dividend,balanced,spring,44,total_cost,%,79313.3192611492,78883.29849103103,-0.545135381435726
+cell,Targeted vs Equal dividend,balanced,spring,55,total_cost,%,77043.81551748677,73655.66719825385,-4.599983203075568
+cell,Targeted vs Equal dividend,balanced,spring,11,total_carbon,%,24237.443325420616,24590.85294615191,1.4371588553889396
+cell,Targeted vs Equal dividend,balanced,spring,22,total_carbon,%,23519.723992395848,23940.631411302165,1.7581299827690045
+cell,Targeted vs Equal dividend,balanced,spring,33,total_carbon,%,23612.37416546168,25452.193758314923,7.2285305161650255
+cell,Targeted vs Equal dividend,balanced,spring,44,total_carbon,%,23222.287611437463,23761.518409855275,2.2693448672630336
+cell,Targeted vs Equal dividend,balanced,spring,55,total_carbon,%,24434.327096236528,27008.878117906705,9.532239771052419
+cell,Targeted vs Equal dividend,balanced,spring,11,grid_buy,%,14456.351481056516,16111.22731867773,10.271569042432402
+cell,Targeted vs Equal dividend,balanced,spring,22,grid_buy,%,15783.779403041726,14920.186645831714,-5.788082801573234
+cell,Targeted vs Equal dividend,balanced,spring,33,grid_buy,%,12768.516798250645,14848.069388284855,14.005541970830096
+cell,Targeted vs Equal dividend,balanced,spring,44,grid_buy,%,12748.040561870008,14297.92026426018,10.839896108976989
+cell,Targeted vs Equal dividend,balanced,spring,55,grid_buy,%,13538.1689855161,18297.691454192314,26.01160086556015
+cell,Targeted vs Equal dividend,balanced,spring,11,peer_trade,kWh,11030.773501248934,9228.0198955701,1802.753605678834
+cell,Targeted vs Equal dividend,balanced,spring,22,peer_trade,kWh,9531.019497480735,11100.788569647722,-1569.7690721669878
+cell,Targeted vs Equal dividend,balanced,spring,33,peer_trade,kWh,12550.109065940507,10454.12015056636,2095.988915374148
+cell,Targeted vs Equal dividend,balanced,spring,44,peer_trade,kWh,12521.47275941623,11014.20234130872,1507.2704181075096
+cell,Targeted vs Equal dividend,balanced,spring,55,peer_trade,kWh,11808.205358555444,8218.818892906376,3589.3864656490678
+cell,Targeted vs Equal dividend,balanced,summer,11,total_cost,%,83710.24283260995,83624.28430829973,-0.10279134227721913
+cell,Targeted vs Equal dividend,balanced,summer,22,total_cost,%,86688.23606929497,86425.74186637816,-0.3037222443779022
+cell,Targeted vs Equal dividend,balanced,summer,33,total_cost,%,84401.17683325679,80370.87721249614,-5.014626890415492
+cell,Targeted vs Equal dividend,balanced,summer,44,total_cost,%,85886.40621854558,85657.19134173766,-0.267595601977475
+cell,Targeted vs Equal dividend,balanced,summer,55,total_cost,%,82594.76217347964,79003.53345685524,-4.54565582004711
+cell,Targeted vs Equal dividend,balanced,summer,11,total_carbon,%,31958.183564835876,32179.080658227573,0.6864617909313018
+cell,Targeted vs Equal dividend,balanced,summer,22,total_carbon,%,30311.847967821854,31005.63331270147,2.237610623471466
+cell,Targeted vs Equal dividend,balanced,summer,33,total_carbon,%,30596.338732298063,32689.679714001286,6.403675410764657
+cell,Targeted vs Equal dividend,balanced,summer,44,total_carbon,%,29210.755146484425,30172.535188608006,3.187601028920871
+cell,Targeted vs Equal dividend,balanced,summer,55,total_carbon,%,31788.066225767267,34313.25153731648,7.359213127333657
+cell,Targeted vs Equal dividend,balanced,summer,11,grid_buy,%,29066.486075239667,30226.45629174702,3.8375991062639727
+cell,Targeted vs Equal dividend,balanced,summer,22,grid_buy,%,27548.46427949271,27472.836396525305,-0.27528239849661085
+cell,Targeted vs Equal dividend,balanced,summer,33,grid_buy,%,25679.688541542546,28573.994863870033,10.129162324401307
+cell,Targeted vs Equal dividend,balanced,summer,44,grid_buy,%,22921.79730917636,25359.11165205339,9.611197648872196
+cell,Targeted vs Equal dividend,balanced,summer,55,grid_buy,%,27332.693598630853,32134.94256898539,14.944009811268069
+cell,Targeted vs Equal dividend,balanced,summer,11,peer_trade,kWh,14385.270842260123,11971.396634322498,2413.8742079376243
+cell,Targeted vs Equal dividend,balanced,summer,22,peer_trade,kWh,11897.32919085878,13559.94194085002,-1662.61274999124
+cell,Targeted vs Equal dividend,balanced,summer,33,peer_trade,kWh,15766.174671149254,14053.425778078288,1712.748893070966
+cell,Targeted vs Equal dividend,balanced,summer,44,peer_trade,kWh,15725.880739188195,13822.527890002728,1903.3528491854668
+cell,Targeted vs Equal dividend,balanced,summer,55,peer_trade,kWh,15079.818841910363,11141.168253396367,3938.650588513996
+cell,Targeted vs Equal dividend,balanced,winter,11,total_cost,%,122293.5282736251,122658.01427704413,0.2971562890263176
+cell,Targeted vs Equal dividend,balanced,winter,22,total_cost,%,125782.15919697387,124456.47296329254,-1.0651806226843032
+cell,Targeted vs Equal dividend,balanced,winter,33,total_cost,%,123433.45321075193,121658.0667604816,-1.4593248911029368
+cell,Targeted vs Equal dividend,balanced,winter,44,total_cost,%,123704.42540322871,123349.37486862509,-0.28784137332011117
+cell,Targeted vs Equal dividend,balanced,winter,55,total_cost,%,121743.077097527,119682.6005384866,-1.7216174696820752
+cell,Targeted vs Equal dividend,balanced,winter,11,total_carbon,%,41533.70296640219,41858.28546685801,0.7754319051429246
+cell,Targeted vs Equal dividend,balanced,winter,22,total_carbon,%,40840.74791247241,42006.74731702287,2.775743134193935
+cell,Targeted vs Equal dividend,balanced,winter,33,total_carbon,%,40508.80504946656,40527.447515784304,0.045999606342060254
+cell,Targeted vs Equal dividend,balanced,winter,44,total_carbon,%,40584.32732133494,41471.095329578544,2.1382796890130207
+cell,Targeted vs Equal dividend,balanced,winter,55,total_carbon,%,41048.43189425144,41832.773507502985,1.8749452821024923
+cell,Targeted vs Equal dividend,balanced,winter,11,grid_buy,%,35272.02622377165,36839.85492554365,4.255794994146174
+cell,Targeted vs Equal dividend,balanced,winter,22,grid_buy,%,37492.44335453715,37071.16636834417,-1.1364006786490386
+cell,Targeted vs Equal dividend,balanced,winter,33,grid_buy,%,33081.04488788662,31445.131919813637,-5.202436333371506
+cell,Targeted vs Equal dividend,balanced,winter,44,grid_buy,%,33500.313945146336,35710.87296597122,6.190156770828084
+cell,Targeted vs Equal dividend,balanced,winter,55,grid_buy,%,32949.00334706381,34077.875840995475,3.3126257610623737
+cell,Targeted vs Equal dividend,balanced,winter,11,peer_trade,kWh,55.37548578058386,118.40472259279568,-63.02923681221182
+cell,Targeted vs Equal dividend,balanced,winter,22,peer_trade,kWh,0.0,275.3250842750074,-275.3250842750074
+cell,Targeted vs Equal dividend,balanced,winter,33,peer_trade,kWh,309.32850376662907,884.5738093677625,-575.2453056011334
+cell,Targeted vs Equal dividend,balanced,winter,44,peer_trade,kWh,280.04437233209615,144.01394072842902,136.03043160366713
+cell,Targeted vs Equal dividend,balanced,winter,55,peer_trade,kWh,507.54473927657034,1291.9137478505509,-784.3690085739805
+cell,Targeted vs Equal dividend,carbon_priority,autumn,11,total_cost,%,135640.39272977487,134891.0906961239,-0.5554866743119241
+cell,Targeted vs Equal dividend,carbon_priority,autumn,22,total_cost,%,135886.33009339584,135564.59666392798,-0.2373285041856859
+cell,Targeted vs Equal dividend,carbon_priority,autumn,33,total_cost,%,135214.33260108635,135214.33260108635,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,44,total_cost,%,136914.35381825521,135299.19155608726,-1.193770815325532
+cell,Targeted vs Equal dividend,carbon_priority,autumn,55,total_cost,%,134446.33080864535,134446.33080864535,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,11,total_carbon,%,23116.092859841803,23678.11729676547,2.3736027230528283
+cell,Targeted vs Equal dividend,carbon_priority,autumn,22,total_carbon,%,22436.94251222743,22736.73482070952,1.318537207941695
+cell,Targeted vs Equal dividend,carbon_priority,autumn,33,total_carbon,%,21820.549174055774,21820.549174055774,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,44,total_carbon,%,22621.866999389295,23073.969279333014,1.9593606737990261
+cell,Targeted vs Equal dividend,carbon_priority,autumn,55,total_carbon,%,22376.163071494422,22376.163071494422,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,11,grid_buy,%,27723.465722101362,27536.41504064358,-0.6792847986264602
+cell,Targeted vs Equal dividend,carbon_priority,autumn,22,grid_buy,%,24580.70942419576,26723.39326986167,8.018008132531595
+cell,Targeted vs Equal dividend,carbon_priority,autumn,33,grid_buy,%,25865.979556320184,25865.979556320184,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,44,grid_buy,%,25348.897374507633,25128.342797227255,-0.877712386607185
+cell,Targeted vs Equal dividend,carbon_priority,autumn,55,grid_buy,%,26241.809968231195,26241.809968231195,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,11,peer_trade,kWh,4493.915022230148,5293.27590948733,-799.3608872571822
+cell,Targeted vs Equal dividend,carbon_priority,autumn,22,peer_trade,kWh,7244.185300305789,5145.984184235781,2098.2011160700076
+cell,Targeted vs Equal dividend,carbon_priority,autumn,33,peer_trade,kWh,5923.067941662972,5923.067941662972,0.0
+cell,Targeted vs Equal dividend,carbon_priority,autumn,44,peer_trade,kWh,6379.637353229355,6813.587331908773,-433.94997867941856
+cell,Targeted vs Equal dividend,carbon_priority,autumn,55,peer_trade,kWh,5695.507900190656,5695.507900190656,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,11,total_cost,%,107377.57693710229,106819.39841415307,-0.5225441551216108
+cell,Targeted vs Equal dividend,carbon_priority,spring,22,total_cost,%,107552.66185151317,107684.62768032691,0.12254843765212041
+cell,Targeted vs Equal dividend,carbon_priority,spring,33,total_cost,%,107115.4299765719,107115.4299765719,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,44,total_cost,%,108641.96250174454,107636.28723373363,-0.9343273480132852
+cell,Targeted vs Equal dividend,carbon_priority,spring,55,total_cost,%,106859.63306966989,106859.63306966989,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,11,total_carbon,%,11442.492234471609,12272.970380633022,6.766724928073835
+cell,Targeted vs Equal dividend,carbon_priority,spring,22,total_carbon,%,11143.752338675487,11239.481212392617,0.8517196826805401
+cell,Targeted vs Equal dividend,carbon_priority,spring,33,total_carbon,%,10200.347984407343,10200.347984407343,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,44,total_carbon,%,11000.04955154379,11633.879931622481,5.448142698772855
+cell,Targeted vs Equal dividend,carbon_priority,spring,55,total_carbon,%,10436.876917283333,10436.876917283333,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,11,grid_buy,%,10084.398687257439,10422.288052349631,3.2419883560598572
+cell,Targeted vs Equal dividend,carbon_priority,spring,22,grid_buy,%,7535.835697922218,9426.401784245454,20.056073670474976
+cell,Targeted vs Equal dividend,carbon_priority,spring,33,grid_buy,%,8448.759095870826,8448.759095870826,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,44,grid_buy,%,8072.6560903517875,8319.30612703345,2.9647909683257896
+cell,Targeted vs Equal dividend,carbon_priority,spring,55,grid_buy,%,8365.033285819862,8365.033285819862,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,11,peer_trade,kWh,15487.123888747406,15684.778565194396,-197.65467644698947
+cell,Targeted vs Equal dividend,carbon_priority,spring,22,peer_trade,kWh,17868.091039675164,15914.73720298858,1953.353836686585
+cell,Targeted vs Equal dividend,carbon_priority,spring,33,peer_trade,kWh,16963.330850986065,16963.330850986065,0.0
+cell,Targeted vs Equal dividend,carbon_priority,spring,44,peer_trade,kWh,17077.483044387765,16984.73519378799,92.74785059977512
+cell,Targeted vs Equal dividend,carbon_priority,spring,55,peer_trade,kWh,16959.11190905911,16959.11190905911,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,11,total_cost,%,113057.21697930712,112863.15171629716,-0.1719474071553349
+cell,Targeted vs Equal dividend,carbon_priority,summer,22,total_cost,%,113822.8483066884,113508.88943699884,-0.276594081086318
+cell,Targeted vs Equal dividend,carbon_priority,summer,33,total_cost,%,117732.64221944648,117732.64221944648,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,44,total_cost,%,119493.7184087794,114041.9589630774,-4.7804856171114025
+cell,Targeted vs Equal dividend,carbon_priority,summer,55,total_cost,%,113227.76584387012,113227.76584387012,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,11,total_carbon,%,17916.32819335145,17962.20124958106,0.2553866065311882
+cell,Targeted vs Equal dividend,carbon_priority,summer,22,total_carbon,%,15762.06119842263,17074.475299582024,7.686409556559083
+cell,Targeted vs Equal dividend,carbon_priority,summer,33,total_carbon,%,12439.673467579798,12439.673467579798,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,44,total_carbon,%,12884.467473478911,16457.328243927615,21.709846929540397
+cell,Targeted vs Equal dividend,carbon_priority,summer,55,total_carbon,%,15521.040547519075,15521.040547519075,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,11,grid_buy,%,21886.410524802137,20603.048013199434,-6.228993451748069
+cell,Targeted vs Equal dividend,carbon_priority,summer,22,grid_buy,%,15583.162581922332,19820.33763726846,21.3779156182431
+cell,Targeted vs Equal dividend,carbon_priority,summer,33,grid_buy,%,11411.524625803588,11411.524625803588,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,44,grid_buy,%,9270.778405086308,16872.92107248187,45.05528494288954
+cell,Targeted vs Equal dividend,carbon_priority,summer,55,grid_buy,%,16950.213378640317,16950.213378640317,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,11,peer_trade,kWh,19428.571518566736,19909.210171606668,-480.63865303993225
+cell,Targeted vs Equal dividend,carbon_priority,summer,22,peer_trade,kWh,23212.891649405905,20207.09135761512,3005.8002917907834
+cell,Targeted vs Equal dividend,carbon_priority,summer,33,peer_trade,kWh,20096.82876853636,20096.82876853636,0.0
+cell,Targeted vs Equal dividend,carbon_priority,summer,44,peer_trade,kWh,19860.06083085147,21923.456888702043,-2063.396057850572
+cell,Targeted vs Equal dividend,carbon_priority,summer,55,peer_trade,kWh,21427.892994976046,21427.892994976046,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,11,total_cost,%,155448.60328714046,155139.87470235737,-0.19900015091246065
+cell,Targeted vs Equal dividend,carbon_priority,winter,22,total_cost,%,155943.25477958468,155698.61790212573,-0.1571220610402156
+cell,Targeted vs Equal dividend,carbon_priority,winter,33,total_cost,%,155580.8903114769,155580.8903114769,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,44,total_cost,%,157421.0911537748,154931.00443642447,-1.6072229870375117
+cell,Targeted vs Equal dividend,carbon_priority,winter,55,total_cost,%,154374.84773490715,154374.84773490715,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,11,total_carbon,%,26462.93434614909,27225.66323955258,2.8015071173561825
+cell,Targeted vs Equal dividend,carbon_priority,winter,22,total_carbon,%,26584.495232949062,26405.313279888516,-0.6785829471563941
+cell,Targeted vs Equal dividend,carbon_priority,winter,33,total_carbon,%,25706.05568429914,25706.05568429914,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,44,total_carbon,%,26443.53498179243,27303.8045712021,3.1507315662412
+cell,Targeted vs Equal dividend,carbon_priority,winter,55,total_carbon,%,26501.400601830373,26501.400601830373,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,11,grid_buy,%,30531.716067219026,30730.683226411606,0.6474543950964837
+cell,Targeted vs Equal dividend,carbon_priority,winter,22,grid_buy,%,28760.788632631058,29989.27926140533,4.096432655369865
+cell,Targeted vs Equal dividend,carbon_priority,winter,33,grid_buy,%,29633.972114159762,29633.972114159762,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,44,grid_buy,%,28983.955021257505,29013.911831524034,0.10324981491802981
+cell,Targeted vs Equal dividend,carbon_priority,winter,55,grid_buy,%,30162.58979423255,30162.58979423255,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,11,peer_trade,kWh,823.3007094619123,1099.4307534208986,-276.1300439589862
+cell,Targeted vs Equal dividend,carbon_priority,winter,22,peer_trade,kWh,1492.5380438211776,870.6640598120779,621.8739840090997
+cell,Targeted vs Equal dividend,carbon_priority,winter,33,peer_trade,kWh,1283.650035427872,1283.650035427872,0.0
+cell,Targeted vs Equal dividend,carbon_priority,winter,44,peer_trade,kWh,1289.3189599870711,1258.2639670786514,31.054992908419763
+cell,Targeted vs Equal dividend,carbon_priority,winter,55,peer_trade,kWh,1109.9661205313707,1109.9661205313707,0.0
+cell,Targeted vs Equal dividend,cost_priority,autumn,11,total_cost,%,82030.34054361076,82565.07397519171,0.647650884127625
+cell,Targeted vs Equal dividend,cost_priority,autumn,22,total_cost,%,85213.14854841073,85217.76529681982,0.005417589152939982
+cell,Targeted vs Equal dividend,cost_priority,autumn,33,total_cost,%,78256.42741934228,79901.28539320099,2.0586126565601903
+cell,Targeted vs Equal dividend,cost_priority,autumn,44,total_cost,%,79750.94081941474,83328.21154570894,4.292988724871311
+cell,Targeted vs Equal dividend,cost_priority,autumn,55,total_cost,%,81447.29348904791,78734.6755582783,-3.445264632813243
+cell,Targeted vs Equal dividend,cost_priority,autumn,11,total_carbon,%,58229.25232805715,59406.702305820574,1.9820153822072393
+cell,Targeted vs Equal dividend,cost_priority,autumn,22,total_carbon,%,59090.42840162533,59111.28994430693,0.03529197671250002
+cell,Targeted vs Equal dividend,cost_priority,autumn,33,total_carbon,%,54048.37829736072,56252.51683781401,3.918293197099443
+cell,Targeted vs Equal dividend,cost_priority,autumn,44,total_carbon,%,54390.34408875038,56140.773470450666,3.1179288661236755
+cell,Targeted vs Equal dividend,cost_priority,autumn,55,total_carbon,%,58510.08914445114,57993.496873655946,-0.8907762053401271
+cell,Targeted vs Equal dividend,cost_priority,autumn,11,grid_buy,%,61669.388901646984,66457.23402752721,7.204400237146584
+cell,Targeted vs Equal dividend,cost_priority,autumn,22,grid_buy,%,64366.27199410167,64428.6908461031,0.09688052198751752
+cell,Targeted vs Equal dividend,cost_priority,autumn,33,grid_buy,%,49883.447988344196,57546.86605212048,13.31682955043197
+cell,Targeted vs Equal dividend,cost_priority,autumn,44,grid_buy,%,52534.00829709013,61177.13360308221,14.128032480352479
+cell,Targeted vs Equal dividend,cost_priority,autumn,55,grid_buy,%,63399.602174944645,61864.45104114617,-2.481475399785647
+cell,Targeted vs Equal dividend,cost_priority,autumn,11,peer_trade,kWh,765.0349457192127,754.9843680488774,10.050577670335315
+cell,Targeted vs Equal dividend,cost_priority,autumn,22,peer_trade,kWh,77.63333080502707,76.55615901740748,1.0771717876195908
+cell,Targeted vs Equal dividend,cost_priority,autumn,33,peer_trade,kWh,219.34989782571756,0.0,219.34989782571756
+cell,Targeted vs Equal dividend,cost_priority,autumn,44,peer_trade,kWh,21.91690599712092,853.4712827208347,-831.5543767237137
+cell,Targeted vs Equal dividend,cost_priority,autumn,55,peer_trade,kWh,131.95136380441818,227.3044948602501,-95.35313105583191
+cell,Targeted vs Equal dividend,cost_priority,spring,11,total_cost,%,56977.15474883643,56756.416938528026,-0.38892132769318816
+cell,Targeted vs Equal dividend,cost_priority,spring,22,total_cost,%,59983.54725328443,59991.43919058652,0.013155105809378821
+cell,Targeted vs Equal dividend,cost_priority,spring,33,total_cost,%,53430.79061884465,55074.06586938546,2.9837551025159903
+cell,Targeted vs Equal dividend,cost_priority,spring,44,total_cost,%,54207.87736774378,57426.16999700793,5.604226486690357
+cell,Targeted vs Equal dividend,cost_priority,spring,55,total_cost,%,56025.31598500496,53922.95508374977,-3.898823604882065
+cell,Targeted vs Equal dividend,cost_priority,spring,11,total_carbon,%,44027.76370618928,45626.865454967774,3.504737248182769
+cell,Targeted vs Equal dividend,cost_priority,spring,22,total_carbon,%,44444.47678507616,44475.33039106553,0.06937240424766378
+cell,Targeted vs Equal dividend,cost_priority,spring,33,total_carbon,%,42570.02287760499,44815.21676576,5.009891840733872
+cell,Targeted vs Equal dividend,cost_priority,spring,44,total_carbon,%,41476.134274296586,43734.101611532,5.162944370715105
+cell,Targeted vs Equal dividend,cost_priority,spring,55,total_carbon,%,44586.559454981354,45270.17455240677,1.5100783334379
+cell,Targeted vs Equal dividend,cost_priority,spring,11,grid_buy,%,43490.784776839,48448.6963634994,10.233322996892086
+cell,Targeted vs Equal dividend,cost_priority,spring,22,grid_buy,%,44786.97993162897,44862.166357448965,0.16759428249837288
+cell,Targeted vs Equal dividend,cost_priority,spring,33,grid_buy,%,38056.922391922795,45013.549043560255,15.454517138618492
+cell,Targeted vs Equal dividend,cost_priority,spring,44,grid_buy,%,37433.75673802889,45839.0922296908,18.336609829759297
+cell,Targeted vs Equal dividend,cost_priority,spring,55,grid_buy,%,45508.04485399705,46551.6971202249,2.2419209841748557
+cell,Targeted vs Equal dividend,cost_priority,spring,11,peer_trade,kWh,743.4596851786172,813.6406782157477,-70.18099303713052
+cell,Targeted vs Equal dividend,cost_priority,spring,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Equal dividend,cost_priority,spring,33,peer_trade,kWh,1910.254191335101,748.8675047278405,1161.3866866072606
+cell,Targeted vs Equal dividend,cost_priority,spring,44,peer_trade,kWh,1592.3573338930642,883.3533850816583,709.0039488114058
+cell,Targeted vs Equal dividend,cost_priority,spring,55,peer_trade,kWh,252.65008857455788,1465.3537206372314,-1212.7036320626735
+cell,Targeted vs Equal dividend,cost_priority,summer,11,total_cost,%,63665.18297663585,63490.45426961574,-0.2752046886892912
+cell,Targeted vs Equal dividend,cost_priority,summer,22,total_cost,%,66735.32930491812,66740.63033209364,0.007942728663397347
+cell,Targeted vs Equal dividend,cost_priority,summer,33,total_cost,%,60369.49266089191,61801.88468690888,2.317715767526397
+cell,Targeted vs Equal dividend,cost_priority,summer,44,total_cost,%,60994.72625938417,64297.7786695374,5.137117453356328
+cell,Targeted vs Equal dividend,cost_priority,summer,55,total_cost,%,62980.31086991027,60644.093063284156,-3.852341899462804
+cell,Targeted vs Equal dividend,cost_priority,summer,11,total_carbon,%,52638.362216941714,54420.62862479288,3.274983132111788
+cell,Targeted vs Equal dividend,cost_priority,summer,22,total_carbon,%,51979.63500559979,52014.552545360166,0.06713032805564438
+cell,Targeted vs Equal dividend,cost_priority,summer,33,total_carbon,%,50979.25949024018,53147.071089082776,4.078891939706334
+cell,Targeted vs Equal dividend,cost_priority,summer,44,total_carbon,%,48815.13509315503,51570.53936207475,5.342981289325151
+cell,Targeted vs Equal dividend,cost_priority,summer,55,total_carbon,%,52373.99093584675,53559.504482243305,2.2134512965660313
+cell,Targeted vs Equal dividend,cost_priority,summer,11,grid_buy,%,60501.76573635742,65588.83745593758,7.756002266388156
+cell,Targeted vs Equal dividend,cost_priority,summer,22,grid_buy,%,58449.48583492818,58533.54861555929,0.14361470066204746
+cell,Targeted vs Equal dividend,cost_priority,summer,33,grid_buy,%,54523.51513186074,60976.50691632766,10.58275081798594
+cell,Targeted vs Equal dividend,cost_priority,summer,44,grid_buy,%,50286.3322942933,59897.39316669151,16.04587506112511
+cell,Targeted vs Equal dividend,cost_priority,summer,55,grid_buy,%,59625.30688067315,62316.4729980915,4.31854690733342
+cell,Targeted vs Equal dividend,cost_priority,summer,11,peer_trade,kWh,369.60382070803394,451.4620859217023,-81.85826521366835
+cell,Targeted vs Equal dividend,cost_priority,summer,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Equal dividend,cost_priority,summer,33,peer_trade,kWh,2119.7166477143764,711.7068360209466,1408.0098116934298
+cell,Targeted vs Equal dividend,cost_priority,summer,44,peer_trade,kWh,2069.5311475753783,515.2355251874899,1554.2956223878884
+cell,Targeted vs Equal dividend,cost_priority,summer,55,peer_trade,kWh,124.80124650177983,1366.4237860458854,-1241.6225395441056
+cell,Targeted vs Equal dividend,cost_priority,winter,11,total_cost,%,98053.86327120931,98942.77158446124,0.8984065222926615
+cell,Targeted vs Equal dividend,cost_priority,winter,22,total_cost,%,102025.95705531277,102018.59261393969,-0.007218724728882048
+cell,Targeted vs Equal dividend,cost_priority,winter,33,total_cost,%,93447.97783089189,95794.06452184725,2.4490940045876215
+cell,Targeted vs Equal dividend,cost_priority,winter,44,total_cost,%,96539.2082796224,100828.97720042519,4.254500085105196
+cell,Targeted vs Equal dividend,cost_priority,winter,55,total_cost,%,97154.26668420098,94415.88954393289,-2.900335053236866
+cell,Targeted vs Equal dividend,cost_priority,winter,11,total_carbon,%,63856.60640022096,63615.39886422847,-0.379165328362228
+cell,Targeted vs Equal dividend,cost_priority,winter,22,total_carbon,%,64348.65909027564,64369.082175140065,0.03172809705263992
+cell,Targeted vs Equal dividend,cost_priority,winter,33,total_carbon,%,59098.997371436286,60582.160410283344,2.448184463549278
+cell,Targeted vs Equal dividend,cost_priority,winter,44,total_carbon,%,59247.1373120563,60401.09992749265,1.9104993399484493
+cell,Targeted vs Equal dividend,cost_priority,winter,55,total_carbon,%,63682.477777547014,63312.026960760886,-0.5851191859892959
+cell,Targeted vs Equal dividend,cost_priority,winter,11,grid_buy,%,65230.58812593746,67859.29524392988,3.8737613005604654
+cell,Targeted vs Equal dividend,cost_priority,winter,22,grid_buy,%,67558.48931208304,67618.97643148951,0.08945287639448501
+cell,Targeted vs Equal dividend,cost_priority,winter,33,grid_buy,%,51326.06194398093,58582.85308368622,12.387227247773144
+cell,Targeted vs Equal dividend,cost_priority,winter,44,grid_buy,%,54592.32780986077,62940.25110360558,13.263250697877487
+cell,Targeted vs Equal dividend,cost_priority,winter,55,grid_buy,%,66475.89687381193,65324.3430549414,-1.7628249516447667
+cell,Targeted vs Equal dividend,cost_priority,winter,11,peer_trade,kWh,789.2123172398032,884.3046064562403,-95.09228921643717
+cell,Targeted vs Equal dividend,cost_priority,winter,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Equal dividend,cost_priority,winter,33,peer_trade,kWh,0.0,0.5669938106143491,-0.5669938106143491
+cell,Targeted vs Equal dividend,cost_priority,winter,44,peer_trade,kWh,0.0,1183.2502101491486,-1183.2502101491486
+cell,Targeted vs Equal dividend,cost_priority,winter,55,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,balanced,autumn,11,total_cost,%,104693.76289845671,105855.9906917397,1.097932942375912
+cell,Targeted vs Standard CDA,balanced,autumn,22,total_cost,%,106954.11357867034,106375.88460270913,-0.54357148532373
+cell,Targeted vs Standard CDA,balanced,autumn,33,total_cost,%,105198.16800012512,106198.81198690503,0.9422365166413453
+cell,Targeted vs Standard CDA,balanced,autumn,44,total_cost,%,105463.1259700603,105268.5514367325,-0.1848363358972828
+cell,Targeted vs Standard CDA,balanced,autumn,55,total_cost,%,103760.92984990246,101880.16269922274,-1.846058252019329
+cell,Targeted vs Standard CDA,balanced,autumn,11,total_carbon,%,37074.47558575728,36709.17637145367,-0.9951168901399794
+cell,Targeted vs Standard CDA,balanced,autumn,22,total_carbon,%,36764.79266244257,37578.686228517356,2.1658382656739836
+cell,Targeted vs Standard CDA,balanced,autumn,33,total_carbon,%,36223.980249104825,35053.54800653529,-3.3389836667926547
+cell,Targeted vs Standard CDA,balanced,autumn,44,total_carbon,%,36208.58749010446,37049.71505132179,2.2702672882967985
+cell,Targeted vs Standard CDA,balanced,autumn,55,total_carbon,%,36769.77432942744,37856.49263640608,2.8706259647877634
+cell,Targeted vs Standard CDA,balanced,autumn,11,grid_buy,%,32023.632163725317,32966.39091287715,2.8597572347040767
+cell,Targeted vs Standard CDA,balanced,autumn,22,grid_buy,%,34436.887228124295,33807.445550182354,-1.8618433534341536
+cell,Targeted vs Standard CDA,balanced,autumn,33,grid_buy,%,30214.368917242147,29183.077902756388,-3.533866502780204
+cell,Targeted vs Standard CDA,balanced,autumn,44,grid_buy,%,30391.439221993543,32501.628402814724,6.492564479133706
+cell,Targeted vs Standard CDA,balanced,autumn,55,grid_buy,%,30221.93554808245,30558.48299939298,1.1013225077868494
+cell,Targeted vs Standard CDA,balanced,autumn,11,peer_trade,kWh,1619.2702627122399,1110.7188658950247,508.55139681721516
+cell,Targeted vs Standard CDA,balanced,autumn,22,peer_trade,kWh,833.2666372934217,1174.5532160557666,-341.2865787623449
+cell,Targeted vs Standard CDA,balanced,autumn,33,peer_trade,kWh,2399.0692910048037,3121.178655451117,-722.1093644463131
+cell,Targeted vs Standard CDA,balanced,autumn,44,peer_trade,kWh,2417.3265568571023,1326.1348094696036,1091.1917473874987
+cell,Targeted vs Standard CDA,balanced,autumn,55,peer_trade,kWh,2330.9609598981074,2038.5591944894386,292.4017654086688
+cell,Targeted vs Standard CDA,balanced,spring,11,total_cost,%,78090.98782171877,79054.12308312833,1.2183238822303986
+cell,Targeted vs Standard CDA,balanced,spring,22,total_cost,%,80018.18423196486,79772.74791679237,-0.3076693752965452
+cell,Targeted vs Standard CDA,balanced,spring,33,total_cost,%,78574.00178824991,78742.03941522933,0.21340268581730648
+cell,Targeted vs Standard CDA,balanced,spring,44,total_cost,%,79313.3192611492,78859.49276155354,-0.5754874698064386
+cell,Targeted vs Standard CDA,balanced,spring,55,total_cost,%,77043.81551748677,76776.85496872652,-0.3477096696250373
+cell,Targeted vs Standard CDA,balanced,spring,11,total_carbon,%,24237.443325420616,23775.08440856599,-1.9447204010263923
+cell,Targeted vs Standard CDA,balanced,spring,22,total_carbon,%,23519.723992395848,23944.30368742729,1.7731970850936973
+cell,Targeted vs Standard CDA,balanced,spring,33,total_carbon,%,23612.37416546168,23837.214857825937,0.9432339042345836
+cell,Targeted vs Standard CDA,balanced,spring,44,total_carbon,%,23222.287611437463,23780.634351634562,2.3479051565280105
+cell,Targeted vs Standard CDA,balanced,spring,55,total_carbon,%,24434.327096236528,28694.509035728253,14.846680018770373
+cell,Targeted vs Standard CDA,balanced,spring,11,grid_buy,%,14456.351481056516,15167.45820066732,4.688371052042976
+cell,Targeted vs Standard CDA,balanced,spring,22,grid_buy,%,15783.779403041726,14927.603186169441,-5.735523688528513
+cell,Targeted vs Standard CDA,balanced,spring,33,grid_buy,%,12768.516798250645,14067.533157537435,9.234144641704809
+cell,Targeted vs Standard CDA,balanced,spring,44,grid_buy,%,12748.040561870008,14332.69004668415,11.056190287047682
+cell,Targeted vs Standard CDA,balanced,spring,55,grid_buy,%,13538.1689855161,19319.451019338703,29.924670364781896
+cell,Targeted vs Standard CDA,balanced,spring,11,peer_trade,kWh,11030.773501248934,10092.816285194733,937.9572160542011
+cell,Targeted vs Standard CDA,balanced,spring,22,peer_trade,kWh,9531.019497480735,11094.453275424332,-1563.4337779435973
+cell,Targeted vs Standard CDA,balanced,spring,33,peer_trade,kWh,12550.109065940507,11165.977446699419,1384.1316192410886
+cell,Targeted vs Standard CDA,balanced,spring,44,peer_trade,kWh,12521.47275941623,10979.31918861521,1542.1535708010197
+cell,Targeted vs Standard CDA,balanced,spring,55,peer_trade,kWh,11808.205358555444,5962.988766987609,5845.216591567835
+cell,Targeted vs Standard CDA,balanced,summer,11,total_cost,%,83710.24283260995,85058.10115279198,1.5846325063862383
+cell,Targeted vs Standard CDA,balanced,summer,22,total_cost,%,86688.23606929497,86422.99911450794,-0.30690551994799653
+cell,Targeted vs Standard CDA,balanced,summer,33,total_cost,%,84401.17683325679,83903.55974133004,-0.5930822166078192
+cell,Targeted vs Standard CDA,balanced,summer,44,total_cost,%,85886.40621854558,85635.82715514483,-0.29261008123012316
+cell,Targeted vs Standard CDA,balanced,summer,55,total_cost,%,82594.76217347964,82250.63228892138,-0.41839178007707084
+cell,Targeted vs Standard CDA,balanced,summer,11,total_carbon,%,31958.183564835876,31245.892939948375,-2.279629602061478
+cell,Targeted vs Standard CDA,balanced,summer,22,total_carbon,%,30311.847967821854,31011.364284956086,2.2556773404308887
+cell,Targeted vs Standard CDA,balanced,summer,33,total_carbon,%,30596.338732298063,31106.849168635883,1.6411512254752956
+cell,Targeted vs Standard CDA,balanced,summer,44,total_carbon,%,29210.755146484425,30197.961236455485,3.2691150314455264
+cell,Targeted vs Standard CDA,balanced,summer,55,total_carbon,%,31788.066225767267,35089.67981327408,9.409072995467591
+cell,Targeted vs Standard CDA,balanced,summer,11,grid_buy,%,29066.486075239667,28985.424210654644,-0.2796642339815247
+cell,Targeted vs Standard CDA,balanced,summer,22,grid_buy,%,27548.46427949271,27484.624694616825,-0.23227380975803652
+cell,Targeted vs Standard CDA,balanced,summer,33,grid_buy,%,25679.688541542546,27818.793346442257,7.689423398996135
+cell,Targeted vs Standard CDA,balanced,summer,44,grid_buy,%,22921.79730917636,25406.44532833823,9.779597212643154
+cell,Targeted vs Standard CDA,balanced,summer,55,grid_buy,%,27332.693598630853,31180.9898555749,12.341802729062506
+cell,Targeted vs Standard CDA,balanced,summer,11,peer_trade,kWh,14385.270842260123,12914.60212823227,1470.6687140278518
+cell,Targeted vs Standard CDA,balanced,summer,22,peer_trade,kWh,11897.32919085878,13551.692069417239,-1654.3628785584588
+cell,Targeted vs Standard CDA,balanced,summer,33,peer_trade,kWh,15766.174671149254,14527.863744089753,1238.3109270595014
+cell,Targeted vs Standard CDA,balanced,summer,44,peer_trade,kWh,15725.880739188195,13780.518782234192,1945.3619569540024
+cell,Targeted vs Standard CDA,balanced,summer,55,peer_trade,kWh,15079.818841910363,10391.35193729613,4688.4669046142335
+cell,Targeted vs Standard CDA,balanced,winter,11,total_cost,%,122293.5282736251,123979.66729738865,1.3600125411846982
+cell,Targeted vs Standard CDA,balanced,winter,22,total_cost,%,125782.15919697387,124453.86168302612,-1.0673011636479512
+cell,Targeted vs Standard CDA,balanced,winter,33,total_cost,%,123433.45321075193,124597.02653109848,0.9338692525347951
+cell,Targeted vs Standard CDA,balanced,winter,44,total_cost,%,123704.42540322871,123328.32931349381,-0.3049551484467807
+cell,Targeted vs Standard CDA,balanced,winter,55,total_cost,%,121743.077097527,119657.09547556099,-1.7432995625337224
+cell,Targeted vs Standard CDA,balanced,winter,11,total_carbon,%,41533.70296640219,41249.62360550776,-0.6886835225727939
+cell,Targeted vs Standard CDA,balanced,winter,22,total_carbon,%,40840.74791247241,42011.719897854055,2.7872507677112623
+cell,Targeted vs Standard CDA,balanced,winter,33,total_carbon,%,40508.80504946656,39080.476814863934,-3.654838300384738
+cell,Targeted vs Standard CDA,balanced,winter,44,total_carbon,%,40584.32732133494,41495.498393499925,2.195831132149307
+cell,Targeted vs Standard CDA,balanced,winter,55,total_carbon,%,41048.43189425144,41969.43237728528,2.1944554187783303
+cell,Targeted vs Standard CDA,balanced,winter,11,grid_buy,%,35272.02622377165,36312.571499950136,2.865523517605776
+cell,Targeted vs Standard CDA,balanced,winter,22,grid_buy,%,37492.44335453715,37080.53686342745,-1.110842846280267
+cell,Targeted vs Standard CDA,balanced,winter,33,grid_buy,%,33081.04488788662,31336.57068732088,-5.566895682275713
+cell,Targeted vs Standard CDA,balanced,winter,44,grid_buy,%,33500.313945146336,35755.85964984654,6.308184803242134
+cell,Targeted vs Standard CDA,balanced,winter,55,grid_buy,%,32949.00334706381,32882.25430698606,-0.2029941118226944
+cell,Targeted vs Standard CDA,balanced,winter,11,peer_trade,kWh,55.37548578058386,32.23561970725018,23.13986607333368
+cell,Targeted vs Standard CDA,balanced,winter,22,peer_trade,kWh,0.0,274.06228164434447,-274.06228164434447
+cell,Targeted vs Standard CDA,balanced,winter,33,peer_trade,kWh,309.32850376662907,611.4866935072182,-302.15818974058914
+cell,Targeted vs Standard CDA,balanced,winter,44,peer_trade,kWh,280.04437233209615,139.9855574398964,140.05881489219973
+cell,Targeted vs Standard CDA,balanced,winter,55,peer_trade,kWh,507.54473927657034,487.86206522415284,19.682674052417497
+cell,Targeted vs Standard CDA,carbon_priority,autumn,11,total_cost,%,135640.39272977487,135660.23223410657,0.014624406876631963
+cell,Targeted vs Standard CDA,carbon_priority,autumn,22,total_cost,%,135886.33009339584,135564.59666392798,-0.2373285041856859
+cell,Targeted vs Standard CDA,carbon_priority,autumn,33,total_cost,%,135214.33260108635,135214.33260108635,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,44,total_cost,%,136914.35381825521,135299.19155608726,-1.193770815325532
+cell,Targeted vs Standard CDA,carbon_priority,autumn,55,total_cost,%,134446.33080864535,134446.33080864535,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,11,total_carbon,%,23116.092859841803,22499.543040216824,-2.740277073729572
+cell,Targeted vs Standard CDA,carbon_priority,autumn,22,total_carbon,%,22436.94251222743,22736.73482070952,1.318537207941695
+cell,Targeted vs Standard CDA,carbon_priority,autumn,33,total_carbon,%,21820.549174055774,21820.549174055774,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,44,total_carbon,%,22621.866999389295,23073.969279333014,1.9593606737990261
+cell,Targeted vs Standard CDA,carbon_priority,autumn,55,total_carbon,%,22376.163071494422,22376.163071494422,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,11,grid_buy,%,27723.465722101362,26171.54348885122,-5.929807823184912
+cell,Targeted vs Standard CDA,carbon_priority,autumn,22,grid_buy,%,24580.70942419576,26723.39326986167,8.018008132531595
+cell,Targeted vs Standard CDA,carbon_priority,autumn,33,grid_buy,%,25865.979556320184,25865.979556320184,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,44,grid_buy,%,25348.897374507633,25128.342797227255,-0.877712386607185
+cell,Targeted vs Standard CDA,carbon_priority,autumn,55,grid_buy,%,26241.809968231195,26241.809968231195,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,11,peer_trade,kWh,4493.915022230148,5573.167150499946,-1079.252128269798
+cell,Targeted vs Standard CDA,carbon_priority,autumn,22,peer_trade,kWh,7244.185300305789,5145.984184235781,2098.2011160700076
+cell,Targeted vs Standard CDA,carbon_priority,autumn,33,peer_trade,kWh,5923.067941662972,5923.067941662972,0.0
+cell,Targeted vs Standard CDA,carbon_priority,autumn,44,peer_trade,kWh,6379.637353229355,6813.587331908773,-433.94997867941856
+cell,Targeted vs Standard CDA,carbon_priority,autumn,55,peer_trade,kWh,5695.507900190656,5695.507900190656,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,11,total_cost,%,107377.57693710229,107560.80818164242,0.17035130884355462
+cell,Targeted vs Standard CDA,carbon_priority,spring,22,total_cost,%,107552.66185151317,107684.62768032691,0.12254843765212041
+cell,Targeted vs Standard CDA,carbon_priority,spring,33,total_cost,%,107115.4299765719,107115.4299765719,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,44,total_cost,%,108641.96250174454,107636.28723373363,-0.9343273480132852
+cell,Targeted vs Standard CDA,carbon_priority,spring,55,total_cost,%,106859.63306966989,106859.63306966989,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,11,total_carbon,%,11442.492234471609,11159.821327607762,-2.532933983132509
+cell,Targeted vs Standard CDA,carbon_priority,spring,22,total_carbon,%,11143.752338675487,11239.481212392617,0.8517196826805401
+cell,Targeted vs Standard CDA,carbon_priority,spring,33,total_carbon,%,10200.347984407343,10200.347984407343,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,44,total_carbon,%,11000.04955154379,11633.879931622481,5.448142698772855
+cell,Targeted vs Standard CDA,carbon_priority,spring,55,total_carbon,%,10436.876917283333,10436.876917283333,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,11,grid_buy,%,10084.398687257439,9034.156252815395,-11.625240974936057
+cell,Targeted vs Standard CDA,carbon_priority,spring,22,grid_buy,%,7535.835697922218,9426.401784245454,20.056073670474976
+cell,Targeted vs Standard CDA,carbon_priority,spring,33,grid_buy,%,8448.759095870826,8448.759095870826,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,44,grid_buy,%,8072.6560903517875,8319.30612703345,2.9647909683257896
+cell,Targeted vs Standard CDA,carbon_priority,spring,55,grid_buy,%,8365.033285819862,8365.033285819862,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,11,peer_trade,kWh,15487.123888747406,16152.453907595589,-665.3300188481826
+cell,Targeted vs Standard CDA,carbon_priority,spring,22,peer_trade,kWh,17868.091039675164,15914.73720298858,1953.353836686585
+cell,Targeted vs Standard CDA,carbon_priority,spring,33,peer_trade,kWh,16963.330850986065,16963.330850986065,0.0
+cell,Targeted vs Standard CDA,carbon_priority,spring,44,peer_trade,kWh,17077.483044387765,16984.73519378799,92.74785059977512
+cell,Targeted vs Standard CDA,carbon_priority,spring,55,peer_trade,kWh,16959.11190905911,16959.11190905911,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,11,total_cost,%,113057.21697930712,113147.5582707912,0.07984378352015675
+cell,Targeted vs Standard CDA,carbon_priority,summer,22,total_cost,%,113822.8483066884,113508.88943699884,-0.276594081086318
+cell,Targeted vs Standard CDA,carbon_priority,summer,33,total_cost,%,117732.64221944648,117732.64221944648,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,44,total_cost,%,119493.7184087794,114041.9589630774,-4.7804856171114025
+cell,Targeted vs Standard CDA,carbon_priority,summer,55,total_cost,%,113227.76584387012,113227.76584387012,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,11,total_carbon,%,17916.32819335145,17283.646167514456,-3.6605819148632843
+cell,Targeted vs Standard CDA,carbon_priority,summer,22,total_carbon,%,15762.06119842263,17074.475299582024,7.686409556559083
+cell,Targeted vs Standard CDA,carbon_priority,summer,33,total_carbon,%,12439.673467579798,12439.673467579798,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,44,total_carbon,%,12884.467473478911,16457.328243927615,21.709846929540397
+cell,Targeted vs Standard CDA,carbon_priority,summer,55,total_carbon,%,15521.040547519075,15521.040547519075,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,11,grid_buy,%,21886.410524802137,20123.3046919454,-8.761512385003257
+cell,Targeted vs Standard CDA,carbon_priority,summer,22,grid_buy,%,15583.162581922332,19820.33763726846,21.3779156182431
+cell,Targeted vs Standard CDA,carbon_priority,summer,33,grid_buy,%,11411.524625803588,11411.524625803588,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,44,grid_buy,%,9270.778405086308,16872.92107248187,45.05528494288954
+cell,Targeted vs Standard CDA,carbon_priority,summer,55,grid_buy,%,16950.213378640317,16950.213378640317,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,11,peer_trade,kWh,19428.571518566736,20530.53134312881,-1101.9598245620728
+cell,Targeted vs Standard CDA,carbon_priority,summer,22,peer_trade,kWh,23212.891649405905,20207.09135761512,3005.8002917907834
+cell,Targeted vs Standard CDA,carbon_priority,summer,33,peer_trade,kWh,20096.82876853636,20096.82876853636,0.0
+cell,Targeted vs Standard CDA,carbon_priority,summer,44,peer_trade,kWh,19860.06083085147,21923.456888702043,-2063.396057850572
+cell,Targeted vs Standard CDA,carbon_priority,summer,55,peer_trade,kWh,21427.892994976046,21427.892994976046,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,11,total_cost,%,155448.60328714046,155443.13224425522,-0.0035196427183700986
+cell,Targeted vs Standard CDA,carbon_priority,winter,22,total_cost,%,155943.25477958468,155698.61790212573,-0.1571220610402156
+cell,Targeted vs Standard CDA,carbon_priority,winter,33,total_cost,%,155580.8903114769,155580.8903114769,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,44,total_cost,%,157421.0911537748,154931.00443642447,-1.6072229870375117
+cell,Targeted vs Standard CDA,carbon_priority,winter,55,total_cost,%,154374.84773490715,154374.84773490715,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,11,total_carbon,%,26462.93434614909,25727.21745696342,-2.859683097934632
+cell,Targeted vs Standard CDA,carbon_priority,winter,22,total_carbon,%,26584.495232949062,26405.313279888516,-0.6785829471563941
+cell,Targeted vs Standard CDA,carbon_priority,winter,33,total_carbon,%,25706.05568429914,25706.05568429914,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,44,total_carbon,%,26443.53498179243,27303.8045712021,3.1507315662412
+cell,Targeted vs Standard CDA,carbon_priority,winter,55,total_carbon,%,26501.400601830373,26501.400601830373,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,11,grid_buy,%,30531.716067219026,28918.198503187166,-5.579592255216135
+cell,Targeted vs Standard CDA,carbon_priority,winter,22,grid_buy,%,28760.788632631058,29989.27926140533,4.096432655369865
+cell,Targeted vs Standard CDA,carbon_priority,winter,33,grid_buy,%,29633.972114159762,29633.972114159762,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,44,grid_buy,%,28983.955021257505,29013.911831524034,0.10324981491802981
+cell,Targeted vs Standard CDA,carbon_priority,winter,55,grid_buy,%,30162.58979423255,30162.58979423255,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,11,peer_trade,kWh,823.3007094619123,1244.8105514156027,-421.5098419536904
+cell,Targeted vs Standard CDA,carbon_priority,winter,22,peer_trade,kWh,1492.5380438211776,870.6640598120779,621.8739840090997
+cell,Targeted vs Standard CDA,carbon_priority,winter,33,peer_trade,kWh,1283.650035427872,1283.650035427872,0.0
+cell,Targeted vs Standard CDA,carbon_priority,winter,44,peer_trade,kWh,1289.3189599870711,1258.2639670786514,31.054992908419763
+cell,Targeted vs Standard CDA,carbon_priority,winter,55,peer_trade,kWh,1109.9661205313707,1109.9661205313707,0.0
+cell,Targeted vs Standard CDA,cost_priority,autumn,11,total_cost,%,82030.34054361076,83201.6644652593,1.4078130878470854
+cell,Targeted vs Standard CDA,cost_priority,autumn,22,total_cost,%,85213.14854841073,85222.46068071618,0.010926852183180626
+cell,Targeted vs Standard CDA,cost_priority,autumn,33,total_cost,%,78256.42741934228,78705.82619518704,0.5709853991371268
+cell,Targeted vs Standard CDA,cost_priority,autumn,44,total_cost,%,79750.94081941474,80263.30457186898,0.6383536725621165
+cell,Targeted vs Standard CDA,cost_priority,autumn,55,total_cost,%,81447.29348904791,79326.39444405395,-2.6736360071044865
+cell,Targeted vs Standard CDA,cost_priority,autumn,11,total_carbon,%,58229.25232805715,56848.35533379178,-2.4290887329233586
+cell,Targeted vs Standard CDA,cost_priority,autumn,22,total_carbon,%,59090.42840162533,59132.31173144821,0.07082985358849682
+cell,Targeted vs Standard CDA,cost_priority,autumn,33,total_carbon,%,54048.37829736072,56311.88692932914,4.019592941023448
+cell,Targeted vs Standard CDA,cost_priority,autumn,44,total_carbon,%,54390.34408875038,55019.036221194816,1.142681107529551
+cell,Targeted vs Standard CDA,cost_priority,autumn,55,total_carbon,%,58510.08914445114,57045.26955668775,-2.5678195565501754
+cell,Targeted vs Standard CDA,cost_priority,autumn,11,grid_buy,%,61669.388901646984,58199.36080866561,-5.962313064552942
+cell,Targeted vs Standard CDA,cost_priority,autumn,22,grid_buy,%,64366.27199410167,64496.18179632988,0.20142246968735256
+cell,Targeted vs Standard CDA,cost_priority,autumn,33,grid_buy,%,49883.447988344196,54223.86000897229,8.004616454656485
+cell,Targeted vs Standard CDA,cost_priority,autumn,44,grid_buy,%,52534.00829709013,54562.995170954324,3.71861344397804
+cell,Targeted vs Standard CDA,cost_priority,autumn,55,grid_buy,%,63399.602174944645,59193.9327581148,-7.104899473423301
+cell,Targeted vs Standard CDA,cost_priority,autumn,11,peer_trade,kWh,765.0349457192127,0.0,765.0349457192127
+cell,Targeted vs Standard CDA,cost_priority,autumn,22,peer_trade,kWh,77.63333080502707,76.24416111203413,1.3891696929929367
+cell,Targeted vs Standard CDA,cost_priority,autumn,33,peer_trade,kWh,219.34989782571756,0.0,219.34989782571756
+cell,Targeted vs Standard CDA,cost_priority,autumn,44,peer_trade,kWh,21.91690599712092,59.91402438076693,-37.99711838364601
+cell,Targeted vs Standard CDA,cost_priority,autumn,55,peer_trade,kWh,131.95136380441818,736.1605731942722,-604.209209389854
+cell,Targeted vs Standard CDA,cost_priority,spring,11,total_cost,%,56977.15474883643,57664.109913947614,1.1913045499814865
+cell,Targeted vs Standard CDA,cost_priority,spring,22,total_cost,%,59983.54725328443,59986.34161854453,0.004658335855638559
+cell,Targeted vs Standard CDA,cost_priority,spring,33,total_cost,%,53430.79061884465,53793.783421013526,0.6747857820817997
+cell,Targeted vs Standard CDA,cost_priority,spring,44,total_cost,%,54207.87736774378,55461.61235034509,2.2605455006998327
+cell,Targeted vs Standard CDA,cost_priority,spring,55,total_cost,%,56025.31598500496,54665.48672805386,-2.487546235005442
+cell,Targeted vs Standard CDA,cost_priority,spring,11,total_carbon,%,44027.76370618928,42806.266557536044,-2.853547498732269
+cell,Targeted vs Standard CDA,cost_priority,spring,22,total_carbon,%,44444.47678507616,44492.10452378975,0.1070476193998107
+cell,Targeted vs Standard CDA,cost_priority,spring,33,total_carbon,%,42570.02287760499,43310.29349009498,1.7092255739603432
+cell,Targeted vs Standard CDA,cost_priority,spring,44,total_carbon,%,41476.134274296586,43100.742380343785,3.7693274322534776
+cell,Targeted vs Standard CDA,cost_priority,spring,55,total_carbon,%,44586.559454981354,44279.26515124185,-0.6939914262124635
+cell,Targeted vs Standard CDA,cost_priority,spring,11,grid_buy,%,43490.784776839,39875.37185698321,-9.06678170381158
+cell,Targeted vs Standard CDA,cost_priority,spring,22,grid_buy,%,44786.97993162897,44916.01901169744,0.2872896639278372
+cell,Targeted vs Standard CDA,cost_priority,spring,33,grid_buy,%,38056.922391922795,39652.6284933234,4.024212673995328
+cell,Targeted vs Standard CDA,cost_priority,spring,44,grid_buy,%,37433.75673802889,41185.37229898679,9.109097117595303
+cell,Targeted vs Standard CDA,cost_priority,spring,55,grid_buy,%,45508.04485399705,43647.052524316685,-4.263729672567398
+cell,Targeted vs Standard CDA,cost_priority,spring,11,peer_trade,kWh,743.4596851786172,0.0,743.4596851786172
+cell,Targeted vs Standard CDA,cost_priority,spring,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,cost_priority,spring,33,peer_trade,kWh,1910.254191335101,1526.587456893921,383.6667344411801
+cell,Targeted vs Standard CDA,cost_priority,spring,44,peer_trade,kWh,1592.3573338930642,1183.076329958439,409.28100393462523
+cell,Targeted vs Standard CDA,cost_priority,spring,55,peer_trade,kWh,252.65008857455788,967.2794899082314,-714.6294013336735
+cell,Targeted vs Standard CDA,cost_priority,summer,11,total_cost,%,63665.18297663585,64316.33228210791,1.012416725841821
+cell,Targeted vs Standard CDA,cost_priority,summer,22,total_cost,%,66735.32930491812,66735.02694298951,-0.0004530783045443026
+cell,Targeted vs Standard CDA,cost_priority,summer,33,total_cost,%,60369.49266089191,60751.371084925035,0.6285922724267247
+cell,Targeted vs Standard CDA,cost_priority,summer,44,total_cost,%,60994.72625938417,62436.25583148249,2.308802078057107
+cell,Targeted vs Standard CDA,cost_priority,summer,55,total_cost,%,62980.31086991027,61006.05258500084,-3.2361678903231037
+cell,Targeted vs Standard CDA,cost_priority,summer,11,total_carbon,%,52638.362216941714,51043.705924358736,-3.12409975667928
+cell,Targeted vs Standard CDA,cost_priority,summer,22,total_carbon,%,51979.63500559979,52037.512164124186,0.1112219937453074
+cell,Targeted vs Standard CDA,cost_priority,summer,33,total_carbon,%,50979.25949024018,51588.93148625403,1.1817883767883268
+cell,Targeted vs Standard CDA,cost_priority,summer,44,total_carbon,%,48815.13509315503,50448.291375297114,3.237287602056994
+cell,Targeted vs Standard CDA,cost_priority,summer,55,total_carbon,%,52373.99093584675,51958.01401509044,-0.8006020411701904
+cell,Targeted vs Standard CDA,cost_priority,summer,11,grid_buy,%,60501.76573635742,55889.39094986022,-8.252683931794985
+cell,Targeted vs Standard CDA,cost_priority,summer,22,grid_buy,%,58449.48583492818,58611.24328486016,0.27598365239552114
+cell,Targeted vs Standard CDA,cost_priority,summer,33,grid_buy,%,54523.51513186074,55943.83070420008,2.5388243072756014
+cell,Targeted vs Standard CDA,cost_priority,summer,44,grid_buy,%,50286.3322942933,54076.980548272935,7.009726163604555
+cell,Targeted vs Standard CDA,cost_priority,summer,55,grid_buy,%,59625.30688067315,58168.55627059188,-2.504360952856863
+cell,Targeted vs Standard CDA,cost_priority,summer,11,peer_trade,kWh,369.60382070803394,0.0,369.60382070803394
+cell,Targeted vs Standard CDA,cost_priority,summer,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,cost_priority,summer,33,peer_trade,kWh,2119.7166477143764,1503.2831693649293,616.4334783494471
+cell,Targeted vs Standard CDA,cost_priority,summer,44,peer_trade,kWh,2069.5311475753783,1235.0637509346009,834.4673966407775
+cell,Targeted vs Standard CDA,cost_priority,summer,55,peer_trade,kWh,124.80124650177983,1815.9949877455963,-1691.1937412438165
+cell,Targeted vs Standard CDA,cost_priority,winter,11,total_cost,%,98053.86327120931,99798.85352307702,1.7485073127260007
+cell,Targeted vs Standard CDA,cost_priority,winter,22,total_cost,%,102025.95705531277,102036.03532429089,0.009877166381551637
+cell,Targeted vs Standard CDA,cost_priority,winter,33,total_cost,%,93447.97783089189,93394.74407401538,-0.05699866454403385
+cell,Targeted vs Standard CDA,cost_priority,winter,44,total_cost,%,96539.2082796224,97384.28047114,0.8677706375496967
+cell,Targeted vs Standard CDA,cost_priority,winter,55,total_cost,%,97154.26668420098,95421.26320938402,-1.8161606926269735
+cell,Targeted vs Standard CDA,cost_priority,winter,11,total_carbon,%,63856.60640022096,61962.355512455426,-3.0570995439073645
+cell,Targeted vs Standard CDA,cost_priority,winter,22,total_carbon,%,64348.65909027564,64384.355390786215,0.055442506636759925
+cell,Targeted vs Standard CDA,cost_priority,winter,33,total_carbon,%,59098.997371436286,61730.95187639167,4.263589698447445
+cell,Targeted vs Standard CDA,cost_priority,winter,44,total_carbon,%,59247.1373120563,58970.14748912086,-0.4697119385474443
+cell,Targeted vs Standard CDA,cost_priority,winter,55,total_carbon,%,63682.477777547014,62138.052425285816,-2.485474346203882
+cell,Targeted vs Standard CDA,cost_priority,winter,11,grid_buy,%,65230.58812593746,61139.51879060315,-6.691366592769269
+cell,Targeted vs Standard CDA,cost_priority,winter,22,grid_buy,%,67558.48931208304,67684.46636706643,0.18612402777942164
+cell,Targeted vs Standard CDA,cost_priority,winter,33,grid_buy,%,51326.06194398093,56203.63042740261,8.678386869905074
+cell,Targeted vs Standard CDA,cost_priority,winter,44,grid_buy,%,54592.32780986077,54879.508526898535,0.5232931648741114
+cell,Targeted vs Standard CDA,cost_priority,winter,55,grid_buy,%,66475.89687381193,61979.048681555876,-7.255432743668837
+cell,Targeted vs Standard CDA,cost_priority,winter,11,peer_trade,kWh,789.2123172398032,166.9812144370759,622.2311028027273
+cell,Targeted vs Standard CDA,cost_priority,winter,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,cost_priority,winter,33,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,cost_priority,winter,44,peer_trade,kWh,0.0,0.0,0.0
+cell,Targeted vs Standard CDA,cost_priority,winter,55,peer_trade,kWh,0.0,307.2249475517143,-307.2249475517143
+cell,Equal dividend vs Standard CDA,balanced,autumn,11,total_cost,%,104485.9983559764,105855.9906917397,1.2942038771833193
+cell,Equal dividend vs Standard CDA,balanced,autumn,22,total_cost,%,106378.24252435418,106375.88460270913,-0.002216594159335649
+cell,Equal dividend vs Standard CDA,balanced,autumn,33,total_cost,%,103170.99765772853,106198.81198690503,2.8510811679794017
+cell,Equal dividend vs Standard CDA,balanced,autumn,44,total_cost,%,105289.80147048387,105268.5514367325,-0.020186497734937466
+cell,Equal dividend vs Standard CDA,balanced,autumn,55,total_cost,%,101667.22766035894,101880.16269922274,0.20900539734358137
+cell,Equal dividend vs Standard CDA,balanced,autumn,11,total_carbon,%,37364.004145172155,36709.17637145367,-1.7838258398728344
+cell,Equal dividend vs Standard CDA,balanced,autumn,22,total_carbon,%,37574.02194617943,37578.686228517356,0.012412042053729117
+cell,Equal dividend vs Standard CDA,balanced,autumn,33,total_carbon,%,36275.064289286216,35053.54800653529,-3.484715106508449
+cell,Equal dividend vs Standard CDA,balanced,autumn,44,total_carbon,%,37026.18509510365,37049.71505132179,0.06350914220406884
+cell,Equal dividend vs Standard CDA,balanced,autumn,55,total_carbon,%,37357.16469933746,37856.49263640608,1.3190021111158734
+cell,Equal dividend vs Standard CDA,balanced,autumn,11,grid_buy,%,33602.71884101302,32966.39091287715,-1.9302323078602794
+cell,Equal dividend vs Standard CDA,balanced,autumn,22,grid_buy,%,33798.447391794514,33807.445550182354,0.026615907358286818
+cell,Equal dividend vs Standard CDA,balanced,autumn,33,grid_buy,%,28977.871366556443,29183.077902756388,0.7031696138554416
+cell,Equal dividend vs Standard CDA,balanced,autumn,44,grid_buy,%,32458.7876463388,32501.628402814724,0.13181110787733738
+cell,Equal dividend vs Standard CDA,balanced,autumn,55,grid_buy,%,31373.894306597624,30558.48299939298,-2.6683631750333925
+cell,Equal dividend vs Standard CDA,balanced,autumn,11,peer_trade,kWh,1016.7237619856235,1110.7188658950247,-93.99510390940122
+cell,Equal dividend vs Standard CDA,balanced,autumn,22,peer_trade,kWh,1177.6331343388042,1174.5532160557666,3.079918283037614
+cell,Equal dividend vs Standard CDA,balanced,autumn,33,peer_trade,kWh,3414.2998029693954,3121.178655451117,293.1211475182786
+cell,Equal dividend vs Standard CDA,balanced,autumn,44,peer_trade,kWh,1341.3884914385014,1326.1348094696036,15.253681968897808
+cell,Equal dividend vs Standard CDA,balanced,autumn,55,peer_trade,kWh,2950.4945736066575,2038.5591944894386,911.9353791172189
+cell,Equal dividend vs Standard CDA,balanced,spring,11,total_cost,%,77735.24432668826,79054.12308312833,1.6683238077958569
+cell,Equal dividend vs Standard CDA,balanced,spring,22,total_cost,%,79775.65252356687,79772.74791679237,-0.003641101567069845
+cell,Equal dividend vs Standard CDA,balanced,spring,33,total_cost,%,75352.16407665948,78742.03941522933,4.305038787088137
+cell,Equal dividend vs Standard CDA,balanced,spring,44,total_cost,%,78883.29849103103,78859.49276155354,-0.03018752548849481
+cell,Equal dividend vs Standard CDA,balanced,spring,55,total_cost,%,73655.66719825385,76776.85496872652,4.065271717295554
+cell,Equal dividend vs Standard CDA,balanced,spring,11,total_carbon,%,24590.85294615191,23775.08440856599,-3.4311909205756868
+cell,Equal dividend vs Standard CDA,balanced,spring,22,total_carbon,%,23940.631411302165,23944.30368742729,0.015336742187470812
+cell,Equal dividend vs Standard CDA,balanced,spring,33,total_carbon,%,25452.193758314923,23837.214857825937,-6.775031857208673
+cell,Equal dividend vs Standard CDA,balanced,spring,44,total_carbon,%,23761.518409855275,23780.634351634562,0.08038449057593743
+cell,Equal dividend vs Standard CDA,balanced,spring,55,total_carbon,%,27008.878117906705,28694.509035728253,5.874402366399534
+cell,Equal dividend vs Standard CDA,balanced,spring,11,grid_buy,%,16111.22731867773,15167.45820066732,-6.222328787884087
+cell,Equal dividend vs Standard CDA,balanced,spring,22,grid_buy,%,14920.186645831714,14927.603186169441,0.04968339689386951
+cell,Equal dividend vs Standard CDA,balanced,spring,33,grid_buy,%,14848.069388284855,14067.533157537435,-5.548493982608504
+cell,Equal dividend vs Standard CDA,balanced,spring,44,grid_buy,%,14297.92026426018,14332.69004668415,0.24259076496261223
+cell,Equal dividend vs Standard CDA,balanced,spring,55,grid_buy,%,18297.691454192314,19319.451019338703,5.2887608665671255
+cell,Equal dividend vs Standard CDA,balanced,spring,11,peer_trade,kWh,9228.0198955701,10092.816285194733,-864.7963896246329
+cell,Equal dividend vs Standard CDA,balanced,spring,22,peer_trade,kWh,11100.788569647722,11094.453275424332,6.33529422339052
+cell,Equal dividend vs Standard CDA,balanced,spring,33,peer_trade,kWh,10454.12015056636,11165.977446699419,-711.8572961330592
+cell,Equal dividend vs Standard CDA,balanced,spring,44,peer_trade,kWh,11014.20234130872,10979.31918861521,34.883152693510056
+cell,Equal dividend vs Standard CDA,balanced,spring,55,peer_trade,kWh,8218.818892906376,5962.988766987609,2255.8301259187674
+cell,Equal dividend vs Standard CDA,balanced,summer,11,total_cost,%,83624.28430829973,85058.10115279198,1.685691104150853
+cell,Equal dividend vs Standard CDA,balanced,summer,22,total_cost,%,86425.74186637816,86422.99911450794,-0.003173636529997031
+cell,Equal dividend vs Standard CDA,balanced,summer,33,total_cost,%,80370.87721249614,83903.55974133004,4.210408401890175
+cell,Equal dividend vs Standard CDA,balanced,summer,44,total_cost,%,85657.19134173766,85635.82715514483,-0.024947720250464253
+cell,Equal dividend vs Standard CDA,balanced,summer,55,total_cost,%,79003.53345685524,82250.63228892138,3.9478101768993996
+cell,Equal dividend vs Standard CDA,balanced,summer,11,total_carbon,%,32179.080658227573,31245.892939948375,-2.986593214259216
+cell,Equal dividend vs Standard CDA,balanced,summer,22,total_carbon,%,31005.63331270147,31011.364284956086,0.018480232607490325
+cell,Equal dividend vs Standard CDA,balanced,summer,33,total_carbon,%,32689.679714001286,31106.849168635883,-5.088366670583031
+cell,Equal dividend vs Standard CDA,balanced,summer,44,total_carbon,%,30172.535188608006,30197.961236455485,0.08419789550820458
+cell,Equal dividend vs Standard CDA,balanced,summer,55,total_carbon,%,34313.25153731648,35089.67981327408,2.21269695274873
+cell,Equal dividend vs Standard CDA,balanced,summer,11,grid_buy,%,30226.45629174702,28985.424210654644,-4.281572945329502
+cell,Equal dividend vs Standard CDA,balanced,summer,22,grid_buy,%,27472.836396525305,27484.624694616825,0.04289051868999685
+cell,Equal dividend vs Standard CDA,balanced,summer,33,grid_buy,%,28573.994863870033,27818.793346442257,-2.7147170188974403
+cell,Equal dividend vs Standard CDA,balanced,summer,44,grid_buy,%,25359.11165205339,25406.44532833823,0.18630578057311087
+cell,Equal dividend vs Standard CDA,balanced,summer,55,grid_buy,%,32134.94256898539,31180.9898555749,-3.0594048419535063
+cell,Equal dividend vs Standard CDA,balanced,summer,11,peer_trade,kWh,11971.396634322498,12914.60212823227,-943.2054939097725
+cell,Equal dividend vs Standard CDA,balanced,summer,22,peer_trade,kWh,13559.94194085002,13551.692069417239,8.24987143278122
+cell,Equal dividend vs Standard CDA,balanced,summer,33,peer_trade,kWh,14053.425778078288,14527.863744089753,-474.4379660114646
+cell,Equal dividend vs Standard CDA,balanced,summer,44,peer_trade,kWh,13822.527890002728,13780.518782234192,42.009107768535614
+cell,Equal dividend vs Standard CDA,balanced,summer,55,peer_trade,kWh,11141.168253396367,10391.35193729613,749.8163161002376
+cell,Equal dividend vs Standard CDA,balanced,winter,11,total_cost,%,122658.01427704413,123979.66729738865,1.066024009545275
+cell,Equal dividend vs Standard CDA,balanced,winter,22,total_cost,%,124456.47296329254,124453.86168302612,-0.0020981914350549323
+cell,Equal dividend vs Standard CDA,balanced,winter,33,total_cost,%,121658.0667604816,124597.02653109848,2.3587719967645806
+cell,Equal dividend vs Standard CDA,balanced,winter,44,total_cost,%,123349.37486862509,123328.32931349381,-0.017064655986525554
+cell,Equal dividend vs Standard CDA,balanced,winter,55,total_cost,%,119682.6005384866,119657.09547556099,-0.021315127886272295
+cell,Equal dividend vs Standard CDA,balanced,winter,11,total_carbon,%,41858.28546685801,41249.62360550776,-1.475557370344054
+cell,Equal dividend vs Standard CDA,balanced,winter,22,total_carbon,%,42006.74731702287,42011.719897854055,0.011836175341726582
+cell,Equal dividend vs Standard CDA,balanced,winter,33,total_carbon,%,40527.447515784304,39080.476814863934,-3.702541061039529
+cell,Equal dividend vs Standard CDA,balanced,winter,44,total_carbon,%,41471.095329578544,41495.498393499925,0.058808942815840884
+cell,Equal dividend vs Standard CDA,balanced,winter,55,total_carbon,%,41832.773507502985,41969.43237728528,0.3256152443373477
+cell,Equal dividend vs Standard CDA,balanced,winter,11,grid_buy,%,36839.85492554365,36312.571499950136,-1.4520685366340413
+cell,Equal dividend vs Standard CDA,balanced,winter,22,grid_buy,%,37071.16636834417,37080.53686342745,0.025270656457291766
+cell,Equal dividend vs Standard CDA,balanced,winter,33,grid_buy,%,31445.131919813637,31336.57068732088,-0.3464362248696282
+cell,Equal dividend vs Standard CDA,balanced,winter,44,grid_buy,%,35710.87296597122,35755.85964984654,0.12581625589727757
+cell,Equal dividend vs Standard CDA,balanced,winter,55,grid_buy,%,34077.875840995475,32882.25430698606,-3.6360692391926275
+cell,Equal dividend vs Standard CDA,balanced,winter,11,peer_trade,kWh,118.40472259279568,32.23561970725018,86.1691028855455
+cell,Equal dividend vs Standard CDA,balanced,winter,22,peer_trade,kWh,275.3250842750074,274.06228164434447,1.262802630662918
+cell,Equal dividend vs Standard CDA,balanced,winter,33,peer_trade,kWh,884.5738093677625,611.4866935072182,273.08711586054426
+cell,Equal dividend vs Standard CDA,balanced,winter,44,peer_trade,kWh,144.01394072842902,139.9855574398964,4.028383288532609
+cell,Equal dividend vs Standard CDA,balanced,winter,55,peer_trade,kWh,1291.9137478505509,487.86206522415284,804.051682626398
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,11,total_cost,%,134891.0906961239,135660.23223410657,0.5669616845822473
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,22,total_cost,%,135564.59666392798,135564.59666392798,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,33,total_cost,%,135214.33260108635,135214.33260108635,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,44,total_cost,%,135299.19155608726,135299.19155608726,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,55,total_cost,%,134446.33080864535,134446.33080864535,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,11,total_carbon,%,23678.11729676547,22499.543040216824,-5.238214191470483
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,22,total_carbon,%,22736.73482070952,22736.73482070952,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,33,total_carbon,%,21820.549174055774,21820.549174055774,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,44,total_carbon,%,23073.969279333014,23073.969279333014,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,55,total_carbon,%,22376.163071494422,22376.163071494422,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,11,grid_buy,%,27536.41504064358,26171.54348885122,-5.215097658927831
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,22,grid_buy,%,26723.39326986167,26723.39326986167,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,33,grid_buy,%,25865.979556320184,25865.979556320184,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,44,grid_buy,%,25128.342797227255,25128.342797227255,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,55,grid_buy,%,26241.809968231195,26241.809968231195,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,11,peer_trade,kWh,5293.27590948733,5573.167150499946,-279.89124101261586
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,22,peer_trade,kWh,5145.984184235781,5145.984184235781,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,33,peer_trade,kWh,5923.067941662972,5923.067941662972,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,44,peer_trade,kWh,6813.587331908773,6813.587331908773,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,autumn,55,peer_trade,kWh,5695.507900190656,5695.507900190656,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,11,total_cost,%,106819.39841415307,107560.80818164242,0.6892936005438959
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,22,total_cost,%,107684.62768032691,107684.62768032691,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,33,total_cost,%,107115.4299765719,107115.4299765719,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,44,total_cost,%,107636.28723373363,107636.28723373363,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,55,total_cost,%,106859.63306966989,106859.63306966989,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,11,total_carbon,%,12272.970380633022,11159.821327607762,-9.974613574426069
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,22,total_carbon,%,11239.481212392617,11239.481212392617,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,33,total_carbon,%,10200.347984407343,10200.347984407343,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,44,total_carbon,%,11633.879931622481,11633.879931622481,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,55,total_carbon,%,10436.876917283333,10436.876917283333,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,11,grid_buy,%,10422.288052349631,9034.156252815395,-15.365372932327135
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,22,grid_buy,%,9426.401784245454,9426.401784245454,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,33,grid_buy,%,8448.759095870826,8448.759095870826,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,44,grid_buy,%,8319.30612703345,8319.30612703345,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,55,grid_buy,%,8365.033285819862,8365.033285819862,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,11,peer_trade,kWh,15684.778565194396,16152.453907595589,-467.6753424011931
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,22,peer_trade,kWh,15914.73720298858,15914.73720298858,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,33,peer_trade,kWh,16963.330850986065,16963.330850986065,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,44,peer_trade,kWh,16984.73519378799,16984.73519378799,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,spring,55,peer_trade,kWh,16959.11190905911,16959.11190905911,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,11,total_cost,%,112863.15171629716,113147.5582707912,0.25135898541741447
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,22,total_cost,%,113508.88943699884,113508.88943699884,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,33,total_cost,%,117732.64221944648,117732.64221944648,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,44,total_cost,%,114041.9589630774,114041.9589630774,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,55,total_cost,%,113227.76584387012,113227.76584387012,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,11,total_carbon,%,17962.20124958106,17283.646167514456,-3.9259949867637527
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,22,total_carbon,%,17074.475299582024,17074.475299582024,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,33,total_carbon,%,12439.673467579798,12439.673467579798,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,44,total_carbon,%,16457.328243927615,16457.328243927615,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,55,total_carbon,%,15521.040547519075,15521.040547519075,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,11,grid_buy,%,20603.048013199434,20123.3046919454,-2.3840185724865446
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,22,grid_buy,%,19820.33763726846,19820.33763726846,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,33,grid_buy,%,11411.524625803588,11411.524625803588,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,44,grid_buy,%,16872.92107248187,16872.92107248187,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,55,grid_buy,%,16950.213378640317,16950.213378640317,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,11,peer_trade,kWh,19909.210171606668,20530.53134312881,-621.3211715221405
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,22,peer_trade,kWh,20207.09135761512,20207.09135761512,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,33,peer_trade,kWh,20096.82876853636,20096.82876853636,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,44,peer_trade,kWh,21923.456888702043,21923.456888702043,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,summer,55,peer_trade,kWh,21427.892994976046,21427.892994976046,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,11,total_cost,%,155139.87470235737,155443.13224425522,0.19509227427386702
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,22,total_cost,%,155698.61790212573,155698.61790212573,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,33,total_cost,%,155580.8903114769,155580.8903114769,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,44,total_cost,%,154931.00443642447,154931.00443642447,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,55,total_cost,%,154374.84773490715,154374.84773490715,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,11,total_carbon,%,27225.66323955258,25727.21745696342,-5.824360077399616
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,22,total_carbon,%,26405.313279888516,26405.313279888516,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,33,total_carbon,%,25706.05568429914,25706.05568429914,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,44,total_carbon,%,27303.8045712021,27303.8045712021,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,55,total_carbon,%,26501.400601830373,26501.400601830373,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,11,grid_buy,%,30730.683226411606,28918.198503187166,-6.267626674686113
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,22,grid_buy,%,29989.27926140533,29989.27926140533,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,33,grid_buy,%,29633.972114159762,29633.972114159762,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,44,grid_buy,%,29013.911831524034,29013.911831524034,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,55,grid_buy,%,30162.58979423255,30162.58979423255,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,11,peer_trade,kWh,1099.4307534208986,1244.8105514156027,-145.37979799470418
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,22,peer_trade,kWh,870.6640598120779,870.6640598120779,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,33,peer_trade,kWh,1283.650035427872,1283.650035427872,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,44,peer_trade,kWh,1258.2639670786514,1258.2639670786514,0.0
+cell,Equal dividend vs Standard CDA,carbon_priority,winter,55,peer_trade,kWh,1109.9661205313707,1109.9661205313707,0.0
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,11,total_cost,%,82565.07397519171,83201.6644652593,0.7651174939335362
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,22,total_cost,%,85217.76529681982,85222.46068071618,0.005509561515647691
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,33,total_cost,%,79901.28539320099,78705.82619518704,-1.5188954310056604
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,44,total_cost,%,83328.21154570894,80263.30457186898,-3.8185656448964065
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,55,total_cost,%,78734.6755582783,79326.39444405395,0.7459293844408541
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,11,total_carbon,%,59406.702305820574,56848.35533379178,-4.500300768610039
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,22,total_carbon,%,59111.28994430693,59132.31173144821,0.03555042332311719
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,33,total_carbon,%,56252.51683781401,56311.88692932914,0.10543083308439605
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,44,total_carbon,%,56140.773470450666,55019.036221194816,-2.038816610211224
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,55,total_carbon,%,57993.496873655946,57045.26955668775,-1.662236543603163
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,11,grid_buy,%,66457.23402752721,58199.36080866561,-14.188941431865429
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,22,grid_buy,%,64428.6908461031,64496.18179632988,0.10464332670096803
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,33,grid_buy,%,57546.86605212048,54223.86000897229,-6.128309645603137
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,44,grid_buy,%,61177.13360308221,54562.995170954324,-12.122022281593537
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,55,grid_buy,%,61864.45104114617,59193.9327581148,-4.51147298143536
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,11,peer_trade,kWh,754.9843680488774,0.0,754.9843680488774
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,22,peer_trade,kWh,76.55615901740748,76.24416111203413,0.31199790537334593
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,33,peer_trade,kWh,0.0,0.0,0.0
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,44,peer_trade,kWh,853.4712827208347,59.91402438076693,793.5572583400677
+cell,Equal dividend vs Standard CDA,cost_priority,autumn,55,peer_trade,kWh,227.3044948602501,736.1605731942722,-508.8560783340221
+cell,Equal dividend vs Standard CDA,cost_priority,spring,11,total_cost,%,56756.416938528026,57664.109913947614,1.574103852073919
+cell,Equal dividend vs Standard CDA,cost_priority,spring,22,total_cost,%,59991.43919058652,59986.34161854453,-0.008497887859879791
+cell,Equal dividend vs Standard CDA,cost_priority,spring,33,total_cost,%,55074.06586938546,53793.783421013526,-2.379982159559003
+cell,Equal dividend vs Standard CDA,cost_priority,spring,44,total_cost,%,57426.16999700793,55461.61235034509,-3.542193534246606
+cell,Equal dividend vs Standard CDA,cost_priority,spring,55,total_cost,%,53922.95508374977,54665.48672805386,1.358318911524528
+cell,Equal dividend vs Standard CDA,cost_priority,spring,11,total_carbon,%,45626.865454967774,42806.266557536044,-6.589219579896213
+cell,Equal dividend vs Standard CDA,cost_priority,spring,22,total_carbon,%,44475.33039106553,44492.10452378975,0.03770136949860239
+cell,Equal dividend vs Standard CDA,cost_priority,spring,33,total_carbon,%,44815.21676576,43310.29349009498,-3.474747350786709
+cell,Equal dividend vs Standard CDA,cost_priority,spring,44,total_carbon,%,43734.101611532,43100.742380343785,-1.4694856659291835
+cell,Equal dividend vs Standard CDA,cost_priority,spring,55,total_carbon,%,45270.17455240677,44279.26515124185,-2.2378632476856337
+cell,Equal dividend vs Standard CDA,cost_priority,spring,11,grid_buy,%,48448.6963634994,39875.37185698321,-21.5002998273351
+cell,Equal dividend vs Standard CDA,cost_priority,spring,22,grid_buy,%,44862.166357448965,44916.01901169744,0.11989632080806455
+cell,Equal dividend vs Standard CDA,cost_priority,spring,33,grid_buy,%,45013.549043560255,39652.6284933234,-13.519710430140877
+cell,Equal dividend vs Standard CDA,cost_priority,spring,44,grid_buy,%,45839.0922296908,41185.37229898679,-11.299448495742991
+cell,Equal dividend vs Standard CDA,cost_priority,spring,55,grid_buy,%,46551.6971202249,43647.052524316685,-6.654847069661745
+cell,Equal dividend vs Standard CDA,cost_priority,spring,11,peer_trade,kWh,813.6406782157477,0.0,813.6406782157477
+cell,Equal dividend vs Standard CDA,cost_priority,spring,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Equal dividend vs Standard CDA,cost_priority,spring,33,peer_trade,kWh,748.8675047278405,1526.587456893921,-777.7199521660805
+cell,Equal dividend vs Standard CDA,cost_priority,spring,44,peer_trade,kWh,883.3533850816583,1183.076329958439,-299.7229448767806
+cell,Equal dividend vs Standard CDA,cost_priority,spring,55,peer_trade,kWh,1465.3537206372314,967.2794899082314,498.07423072899996
+cell,Equal dividend vs Standard CDA,cost_priority,summer,11,total_cost,%,63490.45426961574,64316.33228210791,1.2840875453992981
+cell,Equal dividend vs Standard CDA,cost_priority,summer,22,total_cost,%,66740.63033209364,66735.02694298951,-0.008396473877079
+cell,Equal dividend vs Standard CDA,cost_priority,summer,33,total_cost,%,61801.88468690888,60751.371084925035,-1.7292014702274316
+cell,Equal dividend vs Standard CDA,cost_priority,summer,44,total_cost,%,64297.7786695374,62436.25583148249,-2.981477369621939
+cell,Equal dividend vs Standard CDA,cost_priority,summer,55,total_cost,%,60644.093063284156,61006.05258500084,0.593317394552551
+cell,Equal dividend vs Standard CDA,cost_priority,summer,11,total_carbon,%,54420.62862479288,51043.705924358736,-6.6157475035969755
+cell,Equal dividend vs Standard CDA,cost_priority,summer,22,total_carbon,%,52014.552545360166,52037.512164124186,0.044121284452658456
+cell,Equal dividend vs Standard CDA,cost_priority,summer,33,total_carbon,%,53147.071089082776,51588.93148625403,-3.0202982654213693
+cell,Equal dividend vs Standard CDA,cost_priority,summer,44,total_carbon,%,51570.53936207475,50448.291375297114,-2.224551032717756
+cell,Equal dividend vs Standard CDA,cost_priority,summer,55,total_carbon,%,53559.504482243305,51958.01401509044,-3.0822780614511833
+cell,Equal dividend vs Standard CDA,cost_priority,summer,11,grid_buy,%,65588.83745593758,55889.39094986022,-17.354718563276126
+cell,Equal dividend vs Standard CDA,cost_priority,summer,22,grid_buy,%,58533.54861555929,58611.24328486016,0.13255932641330176
+cell,Equal dividend vs Standard CDA,cost_priority,summer,33,grid_buy,%,60976.50691632766,55943.83070420008,-8.995944948313555
+cell,Equal dividend vs Standard CDA,cost_priority,summer,44,grid_buy,%,59897.39316669151,54076.980548272935,-10.763198239633335
+cell,Equal dividend vs Standard CDA,cost_priority,summer,55,grid_buy,%,62316.4729980915,58168.55627059188,-7.130857276574136
+cell,Equal dividend vs Standard CDA,cost_priority,summer,11,peer_trade,kWh,451.4620859217023,0.0,451.4620859217023
+cell,Equal dividend vs Standard CDA,cost_priority,summer,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Equal dividend vs Standard CDA,cost_priority,summer,33,peer_trade,kWh,711.7068360209466,1503.2831693649293,-791.5763333439827
+cell,Equal dividend vs Standard CDA,cost_priority,summer,44,peer_trade,kWh,515.2355251874899,1235.0637509346009,-719.828225747111
+cell,Equal dividend vs Standard CDA,cost_priority,summer,55,peer_trade,kWh,1366.4237860458854,1815.9949877455963,-449.57120169971085
+cell,Equal dividend vs Standard CDA,cost_priority,winter,11,total_cost,%,98942.77158446124,99798.85352307702,0.8578073879554392
+cell,Equal dividend vs Standard CDA,cost_priority,winter,22,total_cost,%,102018.59261393969,102036.03532429089,0.01709465709419471
+cell,Equal dividend vs Standard CDA,cost_priority,winter,33,total_cost,%,95794.06452184725,93394.74407401538,-2.5690101425090934
+cell,Equal dividend vs Standard CDA,cost_priority,winter,44,total_cost,%,100828.97720042519,97384.28047114,-3.5372204965934246
+cell,Equal dividend vs Standard CDA,cost_priority,winter,55,total_cost,%,94415.88954393289,95421.26320938402,1.0536159673814283
+cell,Equal dividend vs Standard CDA,cost_priority,winter,11,total_carbon,%,63615.39886422847,61962.355512455426,-2.6678187717391624
+cell,Equal dividend vs Standard CDA,cost_priority,winter,22,total_carbon,%,64369.082175140065,64384.355390786215,0.023721936103029546
+cell,Equal dividend vs Standard CDA,cost_priority,winter,33,total_carbon,%,60582.160410283344,61730.95187639167,1.8609650931815125
+cell,Equal dividend vs Standard CDA,cost_priority,winter,44,total_carbon,%,60401.09992749265,58970.14748912086,-2.4265708995144992
+cell,Equal dividend vs Standard CDA,cost_priority,winter,55,total_carbon,%,63312.026960760886,62138.052425285816,-1.8893005005051386
+cell,Equal dividend vs Standard CDA,cost_priority,winter,11,grid_buy,%,67859.29524392988,61139.51879060315,-10.99088868582906
+cell,Equal dividend vs Standard CDA,cost_priority,winter,22,grid_buy,%,67618.97643148951,67684.46636706643,0.09675770393423905
+cell,Equal dividend vs Standard CDA,cost_priority,winter,33,grid_buy,%,58582.85308368622,56203.63042740261,-4.23321881200684
+cell,Equal dividend vs Standard CDA,cost_priority,winter,44,grid_buy,%,62940.25110360558,54879.508526898535,-14.688073550724617
+cell,Equal dividend vs Standard CDA,cost_priority,winter,55,grid_buy,%,65324.3430549414,61979.048681555876,-5.397460020035827
+cell,Equal dividend vs Standard CDA,cost_priority,winter,11,peer_trade,kWh,884.3046064562403,166.9812144370759,717.3233920191644
+cell,Equal dividend vs Standard CDA,cost_priority,winter,22,peer_trade,kWh,0.0,0.0,0.0
+cell,Equal dividend vs Standard CDA,cost_priority,winter,33,peer_trade,kWh,0.5669938106143491,0.0,0.5669938106143491
+cell,Equal dividend vs Standard CDA,cost_priority,winter,44,peer_trade,kWh,1183.2502101491486,0.0,1183.2502101491486
+cell,Equal dividend vs Standard CDA,cost_priority,winter,55,peer_trade,kWh,0.0,307.2249475517143,-307.2249475517143

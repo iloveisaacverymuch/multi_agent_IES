@@ -1,0 +1,81 @@
+{
+  "completed": [
+    {
+      "price": 0.0,
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "price": 0.0,
+      "seed": 22,
+      "state": "trained"
+    },
+    {
+      "price": 0.0,
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "price": 0.005,
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "price": 0.01,
+      "seed": 11,
+      "state": "reused"
+    },
+    {
+      "price": 0.01,
+      "seed": 22,
+      "state": "reused"
+    },
+    {
+      "price": 0.01,
+      "seed": 44,
+      "state": "reused"
+    },
+    {
+      "price": 0.005,
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "price": 0.005,
+      "seed": 22,
+      "state": "trained"
+    },
+    {
+      "price": 0.02,
+      "seed": 22,
+      "state": "trained"
+    },
+    {
+      "price": 0.02,
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "price": 0.02,
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "price": 0.05,
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "price": 0.05,
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "price": 0.05,
+      "seed": 22,
+      "state": "trained"
+    }
+  ],
+  "failures": [],
+  "updated_at_unix": 1792766893.3560991
+}

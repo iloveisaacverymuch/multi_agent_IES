@@ -1,0 +1,56 @@
+{
+  "completed": [
+    {
+      "mode": "scalar_stale",
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "mode": "scalar_stale",
+      "seed": 33,
+      "state": "trained"
+    },
+    {
+      "mode": "scalar_stale",
+      "seed": 22,
+      "state": "trained"
+    },
+    {
+      "mode": "scalar_stale",
+      "seed": 55,
+      "state": "trained"
+    },
+    {
+      "mode": "clear_on_change",
+      "seed": 11,
+      "state": "trained"
+    },
+    {
+      "mode": "scalar_stale",
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "mode": "clear_on_change",
+      "seed": 33,
+      "state": "trained"
+    },
+    {
+      "mode": "clear_on_change",
+      "seed": 22,
+      "state": "trained"
+    },
+    {
+      "mode": "clear_on_change",
+      "seed": 44,
+      "state": "trained"
+    },
+    {
+      "mode": "clear_on_change",
+      "seed": 55,
+      "state": "trained"
+    }
+  ],
+  "failures": [],
+  "updated_at_unix": 1792766563.0015776
+}
