@@ -1,0 +1,7 @@
+comparator,metric,wins,losses,mean_improvement,one_sided_wilcoxon_p
+Stored scalar reward,normalized_hv,3,2,0.003888957512248714,0.21875
+Stored scalar reward,igd,3,2,6.405356696164502e-05,0.59375
+Stored scalar reward,normalized_sparsity,4,1,0.0002517157804565278,0.0625
+Clear on preference change,normalized_hv,3,2,0.0044791164799468765,0.3125
+Clear on preference change,igd,3,2,0.000971898663961239,0.40625
+Clear on preference change,normalized_sparsity,4,1,0.0002695784992608126,0.0625

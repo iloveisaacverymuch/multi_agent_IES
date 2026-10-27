@@ -1,0 +1,14 @@
+{
+  "hourly_counterparty_rows": 1728,
+  "maximum_agent_trade_reconstruction_error_kwh": 0.0,
+  "maximum_bilateral_antisymmetry_error_kwh": 0.0,
+  "maximum_daily_error_vs_agent_summary_kwh": 3.637978807091713e-12,
+  "all_values_finite": true,
+  "validation_passed": true,
+  "figure_count": 36,
+  "selected_policies": {
+    "cost_priority": "EP_policy_61.pt",
+    "balanced": "EP_policy_71.pt",
+    "carbon_priority": "EP_policy_94.pt"
+  }
+}

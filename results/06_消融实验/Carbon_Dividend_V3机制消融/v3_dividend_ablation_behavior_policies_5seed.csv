@@ -1,0 +1,46 @@
+method_key,method,seed,preference,pareto_index,policy_file,policy_cost,policy_carbon
+standard,Standard CDA,11,cost_priority,131,EP_policy_131.pt,4491514.582472,3242999.030659
+standard,Standard CDA,11,balanced,48,EP_policy_48.pt,5864496.87573,2085504.571
+standard,Standard CDA,11,carbon_priority,104,EP_policy_104.pt,7572998.80149,1177816.005607
+standard,Standard CDA,22,cost_priority,39,EP_policy_39.pt,4533197.376507,3357389.5102
+standard,Standard CDA,22,balanced,26,EP_policy_26.pt,5872315.02348,2090691.566399
+standard,Standard CDA,22,carbon_priority,11,EP_policy_11.pt,7572942.198838,1181341.123772
+standard,Standard CDA,33,cost_priority,159,EP_policy_159.pt,4239016.023817,3239450.04104
+standard,Standard CDA,33,balanced,168,EP_policy_168.pt,5778076.362148,2053049.865146
+standard,Standard CDA,33,carbon_priority,7,EP_policy_7.pt,7622230.823724,1146806.990697
+standard,Standard CDA,44,cost_priority,180,EP_policy_180.pt,4338679.383149,3212909.528075
+standard,Standard CDA,44,balanced,29,EP_policy_29.pt,5836786.261703,2087685.226122
+standard,Standard CDA,44,carbon_priority,10,EP_policy_10.pt,7520823.603016,1195824.300684
+standard,Standard CDA,55,cost_priority,139,EP_policy_139.pt,4293718.244211,3285609.649702
+standard,Standard CDA,55,balanced,77,EP_policy_77.pt,5648686.806273,2191441.359047
+standard,Standard CDA,55,carbon_priority,10,EP_policy_10.pt,7547295.61758,1194773.05751
+equal,Carbon levy + equal dividend,11,cost_priority,178,EP_policy_178.pt,4448393.245231,3435035.68832
+equal,Carbon levy + equal dividend,11,balanced,39,EP_policy_39.pt,5780334.111624,2133912.582125
+equal,Carbon levy + equal dividend,11,carbon_priority,3,EP_policy_3.pt,7525982.97227,1203621.259145
+equal,Carbon levy + equal dividend,22,cost_priority,46,EP_policy_46.pt,4532915.70899,3356081.144132
+equal,Carbon levy + equal dividend,22,balanced,31,EP_policy_31.pt,5872500.290355,2090424.726493
+equal,Carbon levy + equal dividend,22,carbon_priority,10,EP_policy_10.pt,7572942.198838,1181341.123772
+equal,Carbon levy + equal dividend,33,cost_priority,150,EP_policy_150.pt,4305546.902418,3338532.609992
+equal,Carbon levy + equal dividend,33,balanced,140,EP_policy_140.pt,5683330.037892,2091672.999011
+equal,Carbon levy + equal dividend,33,carbon_priority,7,EP_policy_7.pt,7622230.823724,1146806.990697
+equal,Carbon levy + equal dividend,44,cost_priority,207,EP_policy_207.pt,4500557.647393,3415765.772608
+equal,Carbon levy + equal dividend,44,balanced,28,EP_policy_28.pt,5838045.157329,2086160.37822
+equal,Carbon levy + equal dividend,44,carbon_priority,9,EP_policy_9.pt,7520823.603016,1195824.300684
+equal,Carbon levy + equal dividend,55,cost_priority,100,EP_policy_100.pt,4258382.732431,3354560.164702
+equal,Carbon levy + equal dividend,55,balanced,122,EP_policy_122.pt,5601797.256991,2168163.296186
+equal,Carbon levy + equal dividend,55,carbon_priority,11,EP_policy_11.pt,7547295.61758,1194773.05751
+targeted,Carbon levy + targeted dividend,11,cost_priority,161,EP_policy_161.pt,4440603.817578,3335647.82036
+targeted,Carbon levy + targeted dividend,11,balanced,178,EP_policy_178.pt,5785489.615437,2091111.414792
+targeted,Carbon levy + targeted dividend,11,carbon_priority,41,EP_policy_41.pt,7560840.364333,1189994.027713
+targeted,Carbon levy + targeted dividend,22,cost_priority,45,EP_policy_45.pt,4532717.468248,3354840.131292
+targeted,Carbon levy + targeted dividend,22,balanced,55,EP_policy_55.pt,5928371.627846,2081919.603342
+targeted,Carbon levy + targeted dividend,22,carbon_priority,122,EP_policy_122.pt,7574034.173532,1172968.030344
+targeted,Carbon levy + targeted dividend,33,cost_priority,174,EP_policy_174.pt,4217483.484003,3225789.829804
+targeted,Carbon levy + targeted dividend,33,balanced,114,EP_policy_114.pt,5820346.970268,2048920.138113
+targeted,Carbon levy + targeted dividend,33,carbon_priority,8,EP_policy_8.pt,7622230.823724,1146806.990697
+targeted,Carbon levy + targeted dividend,44,cost_priority,203,EP_policy_203.pt,4335819.041361,3163932.012431
+targeted,Carbon levy + targeted dividend,44,balanced,35,EP_policy_35.pt,5846870.798646,2035639.643638
+targeted,Carbon levy + targeted dividend,44,carbon_priority,76,EP_policy_76.pt,7632047.996283,1137282.218465
+targeted,Carbon levy + targeted dividend,55,cost_priority,130,EP_policy_130.pt,4388425.094647,3350246.945665
+targeted,Carbon levy + targeted dividend,55,balanced,141,EP_policy_141.pt,5735706.298305,2086183.485833
+targeted,Carbon levy + targeted dividend,55,carbon_priority,12,EP_policy_12.pt,7547295.61758,1194773.05751

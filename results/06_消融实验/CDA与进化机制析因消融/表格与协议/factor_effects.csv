@@ -1,0 +1,11 @@
+effect,metric,wins,losses,mean_improvement,one_sided_p
+CDA effect with Fixed MADDPG,normalized_hv,1,4,-0.006140450919162488,0.9375
+CDA effect with Fixed MADDPG,igd,1,4,-0.0021422439737177066,0.90625
+CDA effect with All-task E-MADDPG,normalized_hv,4,1,0.0015238169092501419,0.3125
+CDA effect with All-task E-MADDPG,igd,4,1,0.0008784487269830991,0.3125
+Algorithm effect under Standard CDA,normalized_hv,2,3,-0.0008169649432303583,0.59375
+Algorithm effect under Standard CDA,igd,2,3,-8.436874944543066e-05,0.5
+Algorithm effect under Carbon-Dividend V3,normalized_hv,4,1,0.006847302885182272,0.21875
+Algorithm effect under Carbon-Dividend V3,igd,4,1,0.002936323951255375,0.21875
+Market x algorithm interaction,normalized_hv,4,1,0.00766426782841263,0.21875
+Market x algorithm interaction,igd,3,2,0.0030206927007008057,0.3125

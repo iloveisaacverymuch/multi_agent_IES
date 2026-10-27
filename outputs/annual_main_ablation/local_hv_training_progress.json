@@ -1,0 +1,30 @@
+{
+  "completed": [
+    {
+      "seed": 44,
+      "state": "trained",
+      "seconds": 10536.103325366974
+    },
+    {
+      "seed": 55,
+      "state": "trained",
+      "seconds": 10552.035605430603
+    },
+    {
+      "seed": 22,
+      "state": "trained",
+      "seconds": 10577.071081161499
+    },
+    {
+      "seed": 33,
+      "state": "trained",
+      "seconds": 10577.68639922142
+    },
+    {
+      "seed": 11,
+      "state": "trained",
+      "seconds": 10624.04708147049
+    }
+  ],
+  "failures": []
+}

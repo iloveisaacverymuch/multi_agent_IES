@@ -1,0 +1,16 @@
+﻿ablation,ablation_method,metric,main_wins,main_losses,mean_improvement,one_sided_wilcoxon_p
+A1_standard_cda,SCDA-MHV-VR-EMADDPG,raw_hypervolume,3,2,2408335980978.025,0.21875
+A1_standard_cda,SCDA-MHV-VR-EMADDPG,normalized_igd,4,1,0.0033210477902813214,0.15625
+A1_standard_cda,SCDA-MHV-VR-EMADDPG,normalized_sparsity,4,1,0.0001360224483228657,0.09375
+A1_standard_cda,SCDA-MHV-VR-EMADDPG,min_annual_cost,3,2,-25895.674884200842,0.40625
+A1_standard_cda,SCDA-MHV-VR-EMADDPG,min_annual_carbon,2,2,-19974.899686400033,0.6424996726559553
+A3_random_preference,CDV3-RP-VR-EMADDPG,raw_hypervolume,3,2,-240156655730.2375,0.5
+A3_random_preference,CDV3-RP-VR-EMADDPG,normalized_igd,3,2,0.0004297651431081462,0.40625
+A3_random_preference,CDV3-RP-VR-EMADDPG,normalized_sparsity,3,2,3.9831148871337274e-05,0.21875
+A3_random_preference,CDV3-RP-VR-EMADDPG,min_annual_cost,4,1,168095.5499735996,0.21875
+A3_random_preference,CDV3-RP-VR-EMADDPG,min_annual_carbon,5,0,444519.6923337998,0.03125
+A5_scalar_stale,CDV3-MHV-SR-EMADDPG,raw_hypervolume,5,0,3243739148208.45,0.03125
+A5_scalar_stale,CDV3-MHV-SR-EMADDPG,normalized_igd,3,2,0.002349759868123765,0.15625
+A5_scalar_stale,CDV3-MHV-SR-EMADDPG,normalized_sparsity,5,0,0.0001792427001214493,0.03125
+A5_scalar_stale,CDV3-MHV-SR-EMADDPG,min_annual_cost,2,3,-140728.45275099948,0.6875
+A5_scalar_stale,CDV3-MHV-SR-EMADDPG,min_annual_carbon,3,2,35859.18595560007,0.3125

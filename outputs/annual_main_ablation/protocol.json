@@ -1,0 +1,34 @@
+{
+  "evaluation_hours": 8760,
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "variants": {
+    "A0_full": {
+      "label": "CDV3-MHV-VR-EMADDPG（主方法）",
+      "run_pattern": "strict_v3_all_evolving_kappa0_seed_{seed}"
+    },
+    "A1_standard_cda": {
+      "label": "SCDA-MHV-VR-EMADDPG",
+      "run_pattern": "strict_standard_all_evolving_kappa0_seed_{seed}"
+    },
+    "A3_random_preference": {
+      "label": "CDV3-RP-VR-EMADDPG",
+      "run_pattern": "strict_v3_all_evolving_random_seed_{seed}"
+    },
+    "A5_scalar_stale": {
+      "label": "CDV3-MHV-SR-EMADDPG",
+      "run_pattern": "strict_v3_replay_scalar_stale_seed_{seed}"
+    }
+  },
+  "physical_hv_reference": [
+    54823495.22396411,
+    25311295.397880502
+  ],
+  "reference_source": "outputs\\annual_cross_algorithm\\metric_bounds.json",
+  "sparsity": "Mean squared Euclidean spacing on cost/carbon values normalized by the preset annual bounds; lower is denser."
+}

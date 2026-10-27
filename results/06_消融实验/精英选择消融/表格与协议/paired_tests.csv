@@ -1,0 +1,4 @@
+comparator,metric,wins,losses,mean_improvement,one_sided_p
+Random preference,normalized_hv,3,2,-0.00010685887553054662,0.40625
+Random preference,igd,3,2,0.0014330637542810435,0.40625
+Random preference,normalized_sparsity,3,2,-4.002612163210811e-06,0.5
